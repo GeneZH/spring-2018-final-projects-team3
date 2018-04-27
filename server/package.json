@@ -6,7 +6,9 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "body-parser": "^1.18.2",
-    "express": "~4.16.0"
+    "express": "~4.16.0",
+    "protobufjs": "^6.8.6"
   }
 }
