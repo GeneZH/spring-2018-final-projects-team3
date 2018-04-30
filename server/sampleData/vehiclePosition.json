@@ -1,0 +1,3404 @@
+[
+  {
+    "latitude": 39.74021530151367,
+    "longitude": -104.98733520507812,
+    "bearing": 188,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.690181732177734,
+    "longitude": -104.98045349121094,
+    "bearing": 0,
+    "routeId": "12"
+  },
+  {
+    "latitude": 39.65178298950195,
+    "longitude": -104.79133605957031,
+    "bearing": 181,
+    "routeId": "169"
+  },
+  {
+    "latitude": 39.69404983520508,
+    "longitude": -104.80975341796875,
+    "bearing": 0,
+    "routeId": "153"
+  },
+  {
+    "latitude": 39.72043228149414,
+    "longitude": -105.12711334228516,
+    "bearing": 6,
+    "routeId": "GS"
+  },
+  {
+    "latitude": 40.02574920654297,
+    "longitude": -105.25846862792969,
+    "bearing": 181,
+    "routeId": "BOLT"
+  },
+  {
+    "latitude": 40.161617279052734,
+    "longitude": -105.10243225097656,
+    "bearing": 359,
+    "routeId": "BOLT"
+  },
+  {
+    "latitude": 39.795799255371094,
+    "longitude": -104.98780059814453,
+    "bearing": 193,
+    "routeId": "FF1"
+  },
+  {
+    "latitude": 39.74006652832031,
+    "longitude": -104.98677062988281,
+    "bearing": 71,
+    "routeId": "RX"
+  },
+  {
+    "latitude": 39.6872673034668,
+    "longitude": -104.82872009277344,
+    "bearing": 0,
+    "routeId": "AT"
+  },
+  {
+    "latitude": 39.737815856933594,
+    "longitude": -104.98748016357422,
+    "bearing": 181,
+    "routeId": "P"
+  },
+  {
+    "latitude": 39.82170104980469,
+    "longitude": -104.78690338134766,
+    "bearing": 191,
+    "routeId": "AT"
+  },
+  {
+    "latitude": 39.746150970458984,
+    "longitude": -104.98873138427734,
+    "bearing": 312,
+    "routeId": "122X"
+  },
+  {
+    "latitude": 39.75473403930664,
+    "longitude": -105.00309753417969,
+    "bearing": 50,
+    "routeId": "MALL"
+  },
+  {
+    "latitude": 39.74665069580078,
+    "longitude": -104.99413299560547,
+    "bearing": 138,
+    "routeId": "MALL"
+  },
+  {
+    "latitude": 39.75261688232422,
+    "longitude": -105.00154876708984,
+    "bearing": 317,
+    "routeId": "MALL"
+  },
+  {
+    "latitude": 39.741981506347656,
+    "longitude": -104.98805236816406,
+    "bearing": 135,
+    "routeId": "MALL"
+  },
+  {
+    "latitude": 39.74543380737305,
+    "longitude": -104.99246978759766,
+    "bearing": 316,
+    "routeId": "MALL"
+  },
+  {
+    "latitude": 39.7459831237793,
+    "longitude": -104.99323272705078,
+    "bearing": 136,
+    "routeId": "MALL"
+  },
+  {
+    "latitude": 39.74921798706055,
+    "longitude": -104.9974365234375,
+    "bearing": 315,
+    "routeId": "MALL"
+  },
+  {
+    "latitude": 39.7512321472168,
+    "longitude": -104.99994659423828,
+    "bearing": 128,
+    "routeId": "MALL"
+  },
+  {
+    "latitude": 39.755218505859375,
+    "longitude": -105.0029296875,
+    "bearing": 237,
+    "routeId": "MALL"
+  },
+  {
+    "latitude": 39.75320053100586,
+    "longitude": -104.99536895751953,
+    "bearing": 137,
+    "routeId": "FMR"
+  },
+  {
+    "latitude": 39.74701690673828,
+    "longitude": -104.98973083496094,
+    "bearing": 310,
+    "routeId": "FMR"
+  },
+  {
+    "latitude": 39.7536506652832,
+    "longitude": -105.00093078613281,
+    "bearing": 303,
+    "routeId": "FMR"
+  },
+  {
+    "latitude": 39.75491714477539,
+    "longitude": -105.00247955322266,
+    "bearing": 122,
+    "routeId": "FMR"
+  },
+  {
+    "latitude": 39.74058151245117,
+    "longitude": -104.98653411865234,
+    "bearing": 168,
+    "routeId": "FMR"
+  },
+  {
+    "latitude": 39.74901580810547,
+    "longitude": -104.98983001708984,
+    "bearing": 135,
+    "routeId": "FMR"
+  },
+  {
+    "latitude": 40.007999420166016,
+    "longitude": -105.25789642333984,
+    "bearing": 96,
+    "routeId": "J"
+  },
+  {
+    "latitude": 39.99616622924805,
+    "longitude": -105.09046936035156,
+    "bearing": 179,
+    "routeId": "LD1"
+  },
+  {
+    "latitude": 40.170867919921875,
+    "longitude": -105.1038818359375,
+    "bearing": 180,
+    "routeId": "LD1"
+  },
+  {
+    "latitude": 39.759483337402344,
+    "longitude": -105.0008316040039,
+    "bearing": 305,
+    "routeId": "LD1"
+  },
+  {
+    "latitude": 39.62385177612305,
+    "longitude": -104.90370178222656,
+    "bearing": 96,
+    "routeId": "73"
+  },
+  {
+    "latitude": 39.745384216308594,
+    "longitude": -105.00941467285156,
+    "bearing": 225,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.73994827270508,
+    "longitude": -104.9726333618164,
+    "bearing": 90,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.74755096435547,
+    "longitude": -104.98262023925781,
+    "bearing": 270,
+    "routeId": "32"
+  },
+  {
+    "latitude": 39.71099853515625,
+    "longitude": -104.9863510131836,
+    "bearing": 1,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.755584716796875,
+    "longitude": -104.98743438720703,
+    "bearing": 181,
+    "routeId": "FF4"
+  },
+  {
+    "latitude": 39.96773147583008,
+    "longitude": -105.19146728515625,
+    "bearing": 117,
+    "routeId": "FF2"
+  },
+  {
+    "latitude": 39.75431823730469,
+    "longitude": -105.00061798095703,
+    "bearing": 114,
+    "routeId": "FF1"
+  },
+  {
+    "latitude": 40.017333984375,
+    "longitude": -105.27651977539062,
+    "bearing": 213,
+    "routeId": "FF1"
+  },
+  {
+    "latitude": 40.00316619873047,
+    "longitude": -105.26712036132812,
+    "bearing": 109,
+    "routeId": "FF1"
+  },
+  {
+    "latitude": 40.023231506347656,
+    "longitude": -105.25443267822266,
+    "bearing": 256,
+    "routeId": "FF4"
+  },
+  {
+    "latitude": 0,
+    "longitude": 0,
+    "bearing": 0,
+    "routeId": "FF1"
+  },
+  {
+    "latitude": 39.86774826049805,
+    "longitude": -105.05831909179688,
+    "bearing": 340,
+    "routeId": "FF1"
+  },
+  {
+    "latitude": 39.94893264770508,
+    "longitude": -105.1521987915039,
+    "bearing": 133,
+    "routeId": "FF1"
+  },
+  {
+    "latitude": 40.011234283447266,
+    "longitude": -105.27743530273438,
+    "bearing": 158,
+    "routeId": "FF2"
+  },
+  {
+    "latitude": 40.01483154296875,
+    "longitude": -105.27884674072266,
+    "bearing": 346,
+    "routeId": "FF1"
+  },
+  {
+    "latitude": 39.9608154296875,
+    "longitude": -105.17292022705078,
+    "bearing": 297,
+    "routeId": "FF1"
+  },
+  {
+    "latitude": 39.88538360595703,
+    "longitude": -104.87799835205078,
+    "bearing": 270,
+    "routeId": "AA"
+  },
+  {
+    "latitude": 40.0171012878418,
+    "longitude": -105.27655029296875,
+    "bearing": 205,
+    "routeId": "FF1"
+  },
+  {
+    "latitude": 39.97494888305664,
+    "longitude": -105.05785369873047,
+    "bearing": 61,
+    "routeId": "AB1"
+  },
+  {
+    "latitude": 40.017398834228516,
+    "longitude": -105.25845336914062,
+    "bearing": 75,
+    "routeId": "BOLT"
+  },
+  {
+    "latitude": 40.1419677734375,
+    "longitude": -105.13056945800781,
+    "bearing": 220,
+    "routeId": "BOLT"
+  },
+  {
+    "latitude": 40.00764846801758,
+    "longitude": -105.27501678466797,
+    "bearing": 151,
+    "routeId": "FF5"
+  },
+  {
+    "latitude": 39.997066497802734,
+    "longitude": -105.26139831542969,
+    "bearing": 330,
+    "routeId": "AB1"
+  },
+  {
+    "latitude": 39.638431549072266,
+    "longitude": -105.33116912841797,
+    "bearing": 144,
+    "routeId": "ES"
+  },
+  {
+    "latitude": 39.980018615722656,
+    "longitude": -105.24506378173828,
+    "bearing": 145,
+    "routeId": "GS"
+  },
+  {
+    "latitude": 39.92231750488281,
+    "longitude": -104.81828308105469,
+    "bearing": 0,
+    "routeId": "145X"
+  },
+  {
+    "latitude": 40.01453399658203,
+    "longitude": -105.25029754638672,
+    "bearing": 90,
+    "routeId": "JUMP"
+  },
+  {
+    "latitude": 40.178531646728516,
+    "longitude": -105.1166000366211,
+    "bearing": 176,
+    "routeId": "326"
+  },
+  {
+    "latitude": 40.01456832885742,
+    "longitude": -105.17863464355469,
+    "bearing": 90,
+    "routeId": "JUMP"
+  },
+  {
+    "latitude": 40.016700744628906,
+    "longitude": -105.27667999267578,
+    "bearing": 348,
+    "routeId": "JUMP"
+  },
+  {
+    "latitude": 40.206634521484375,
+    "longitude": -105.09918212890625,
+    "bearing": 77,
+    "routeId": "324"
+  },
+  {
+    "latitude": 39.53616714477539,
+    "longitude": -104.85426330566406,
+    "bearing": 90,
+    "routeId": "483"
+  },
+  {
+    "latitude": 39.527381896972656,
+    "longitude": -104.98197937011719,
+    "bearing": 97,
+    "routeId": "403"
+  },
+  {
+    "latitude": 39.54286575317383,
+    "longitude": -105.0094985961914,
+    "bearing": 44,
+    "routeId": "402L"
+  },
+  {
+    "latitude": 39.631248474121094,
+    "longitude": -104.89643096923828,
+    "bearing": 328,
+    "routeId": "46"
+  },
+  {
+    "latitude": 39.652984619140625,
+    "longitude": -104.92671966552734,
+    "bearing": 88,
+    "routeId": "35"
+  },
+  {
+    "latitude": 39.58168411254883,
+    "longitude": -105.02706909179688,
+    "bearing": 289,
+    "routeId": "85"
+  },
+  {
+    "latitude": 39.54931640625,
+    "longitude": -104.99085235595703,
+    "bearing": 277,
+    "routeId": "402L"
+  },
+  {
+    "latitude": 39.68731689453125,
+    "longitude": -104.93595123291016,
+    "bearing": 0,
+    "routeId": "46"
+  },
+  {
+    "latitude": 39.6772346496582,
+    "longitude": -105.02031707763672,
+    "bearing": 351,
+    "routeId": "27"
+  },
+  {
+    "latitude": 39.649566650390625,
+    "longitude": -105.08145141601562,
+    "bearing": 359,
+    "routeId": "27"
+  },
+  {
+    "latitude": 39.56696701049805,
+    "longitude": -104.78589630126953,
+    "bearing": 153,
+    "routeId": "483"
+  },
+  {
+    "latitude": 39.65271759033203,
+    "longitude": -104.91287994384766,
+    "bearing": 2,
+    "routeId": "35"
+  },
+  {
+    "latitude": 39.568817138671875,
+    "longitude": -105.03106689453125,
+    "bearing": 198,
+    "routeId": "403"
+  },
+  {
+    "latitude": 39.708683013916016,
+    "longitude": -104.99250030517578,
+    "bearing": 183,
+    "routeId": "33A"
+  },
+  {
+    "latitude": 39.53594970703125,
+    "longitude": -104.88553619384766,
+    "bearing": 3,
+    "routeId": "403"
+  },
+  {
+    "latitude": 39.65340042114258,
+    "longitude": -104.83200073242188,
+    "bearing": 321,
+    "routeId": "483"
+  },
+  {
+    "latitude": 39.915000915527344,
+    "longitude": -105.07191467285156,
+    "bearing": 180,
+    "routeId": "112"
+  },
+  {
+    "latitude": 40.01734924316406,
+    "longitude": -105.27691650390625,
+    "bearing": 34,
+    "routeId": "JUMP"
+  },
+  {
+    "latitude": 40.16413116455078,
+    "longitude": -105.08366394042969,
+    "bearing": 180,
+    "routeId": "323"
+  },
+  {
+    "latitude": 40.15806579589844,
+    "longitude": -105.10681915283203,
+    "bearing": 356,
+    "routeId": "323"
+  },
+  {
+    "latitude": 39.919551849365234,
+    "longitude": -105.09083557128906,
+    "bearing": 181,
+    "routeId": "128"
+  },
+  {
+    "latitude": 40.13798141479492,
+    "longitude": -105.10773468017578,
+    "bearing": 270,
+    "routeId": "324"
+  },
+  {
+    "latitude": 39.98853302001953,
+    "longitude": -105.0891342163086,
+    "bearing": 267,
+    "routeId": "JUMP"
+  },
+  {
+    "latitude": 39.714683532714844,
+    "longitude": -104.9495849609375,
+    "bearing": 272,
+    "routeId": "46"
+  },
+  {
+    "latitude": 39.73686599731445,
+    "longitude": -105.00566864013672,
+    "bearing": 90,
+    "routeId": "33B"
+  },
+  {
+    "latitude": 40.014801025390625,
+    "longitude": -105.22650146484375,
+    "bearing": 269,
+    "routeId": "JUMP"
+  },
+  {
+    "latitude": 40.19186782836914,
+    "longitude": -105.09806823730469,
+    "bearing": 352,
+    "routeId": "327"
+  },
+  {
+    "latitude": 40.20333480834961,
+    "longitude": -105.10209655761719,
+    "bearing": 270,
+    "routeId": "324"
+  },
+  {
+    "latitude": 40.13793182373047,
+    "longitude": -105.10763549804688,
+    "bearing": 90,
+    "routeId": "324"
+  },
+  {
+    "latitude": 39.565765380859375,
+    "longitude": -104.87653350830078,
+    "bearing": 122,
+    "routeId": "402L"
+  },
+  {
+    "latitude": 39.58060073852539,
+    "longitude": -105.08366394042969,
+    "bearing": 86,
+    "routeId": "77"
+  },
+  {
+    "latitude": 39.6401481628418,
+    "longitude": -104.88521575927734,
+    "bearing": 181,
+    "routeId": "27"
+  },
+  {
+    "latitude": 39.6602668762207,
+    "longitude": -104.93170166015625,
+    "bearing": 180,
+    "routeId": "46"
+  },
+  {
+    "latitude": 39.80176544189453,
+    "longitude": -105.1178970336914,
+    "bearing": 90,
+    "routeId": "100"
+  },
+  {
+    "latitude": 39.71161651611328,
+    "longitude": -105.02493286132812,
+    "bearing": 358,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.5949821472168,
+    "longitude": -104.93260192871094,
+    "bearing": 90,
+    "routeId": "66"
+  },
+  {
+    "latitude": 39.61349868774414,
+    "longitude": -105.09183502197266,
+    "bearing": 355,
+    "routeId": "100"
+  },
+  {
+    "latitude": 39.74043273925781,
+    "longitude": -105.01143646240234,
+    "bearing": 271,
+    "routeId": "30L"
+  },
+  {
+    "latitude": 39.57341766357422,
+    "longitude": -104.99296569824219,
+    "bearing": 91,
+    "routeId": "401"
+  },
+  {
+    "latitude": 39.66054916381836,
+    "longitude": -105.02189636230469,
+    "bearing": 270,
+    "routeId": "27"
+  },
+  {
+    "latitude": 39.718082427978516,
+    "longitude": -105.13528442382812,
+    "bearing": 172,
+    "routeId": "21"
+  },
+  {
+    "latitude": 39.614383697509766,
+    "longitude": -105.09163665771484,
+    "bearing": 93,
+    "routeId": "59"
+  },
+  {
+    "latitude": 39.96744918823242,
+    "longitude": -105.08844757080078,
+    "bearing": 273,
+    "routeId": "225D"
+  },
+  {
+    "latitude": 39.68028259277344,
+    "longitude": -105.02037048339844,
+    "bearing": 213,
+    "routeId": "29"
+  },
+  {
+    "latitude": 39.68695068359375,
+    "longitude": -105.0531005859375,
+    "bearing": 1,
+    "routeId": "4"
+  },
+  {
+    "latitude": 39.580665588378906,
+    "longitude": -104.97754669189453,
+    "bearing": 270,
+    "routeId": "67"
+  },
+  {
+    "latitude": 39.59073257446289,
+    "longitude": -104.98847961425781,
+    "bearing": 80,
+    "routeId": "67"
+  },
+  {
+    "latitude": 39.74024963378906,
+    "longitude": -104.94031524658203,
+    "bearing": 268,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.78379821777344,
+    "longitude": -104.79586791992188,
+    "bearing": 90,
+    "routeId": "45"
+  },
+  {
+    "latitude": 39.61029815673828,
+    "longitude": -105.01785278320312,
+    "bearing": 272,
+    "routeId": "59"
+  },
+  {
+    "latitude": 39.64926528930664,
+    "longitude": -105.0345687866211,
+    "bearing": 358,
+    "routeId": "51"
+  },
+  {
+    "latitude": 39.74751663208008,
+    "longitude": -104.97744750976562,
+    "bearing": 272,
+    "routeId": "28"
+  },
+  {
+    "latitude": 39.80546569824219,
+    "longitude": -104.92849731445312,
+    "bearing": 104,
+    "routeId": "62"
+  },
+  {
+    "latitude": 39.70768356323242,
+    "longitude": -105.08489990234375,
+    "bearing": 312,
+    "routeId": "11"
+  },
+  {
+    "latitude": 39.72341537475586,
+    "longitude": -105.02523040771484,
+    "bearing": 182,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.711883544921875,
+    "longitude": -105.05313110351562,
+    "bearing": 2,
+    "routeId": "50"
+  },
+  {
+    "latitude": 40.06288146972656,
+    "longitude": -105.28273010253906,
+    "bearing": 106,
+    "routeId": "204"
+  },
+  {
+    "latitude": 40.015750885009766,
+    "longitude": -105.22530364990234,
+    "bearing": 358,
+    "routeId": "208F"
+  },
+  {
+    "latitude": 39.99513244628906,
+    "longitude": -105.09041595458984,
+    "bearing": 1,
+    "routeId": "JUMP"
+  },
+  {
+    "latitude": 39.748233795166016,
+    "longitude": -105.00035095214844,
+    "bearing": 32,
+    "routeId": "6"
+  },
+  {
+    "latitude": 39.62696838378906,
+    "longitude": -105.02555084228516,
+    "bearing": 180,
+    "routeId": "29"
+  },
+  {
+    "latitude": 39.68921661376953,
+    "longitude": -105.02518463134766,
+    "bearing": 181,
+    "routeId": "31"
+  },
+  {
+    "latitude": 40.001033782958984,
+    "longitude": -105.19718170166016,
+    "bearing": 134,
+    "routeId": "225"
+  },
+  {
+    "latitude": 40.00113296508789,
+    "longitude": -105.26443481445312,
+    "bearing": 155,
+    "routeId": "225E"
+  },
+  {
+    "latitude": 39.73646545410156,
+    "longitude": -104.9986343383789,
+    "bearing": 1,
+    "routeId": "1"
+  },
+  {
+    "latitude": 39.732933044433594,
+    "longitude": -104.90316772460938,
+    "bearing": 270,
+    "routeId": "10"
+  },
+  {
+    "latitude": 39.863948822021484,
+    "longitude": -104.97930145263672,
+    "bearing": 89,
+    "routeId": "12"
+  },
+  {
+    "latitude": 39.855384826660156,
+    "longitude": -104.98393249511719,
+    "bearing": 179,
+    "routeId": "80"
+  },
+  {
+    "latitude": 39.91396713256836,
+    "longitude": -104.97893524169922,
+    "bearing": 92,
+    "routeId": "12"
+  },
+  {
+    "latitude": 39.76865005493164,
+    "longitude": -105.08135223388672,
+    "bearing": 0,
+    "routeId": "76"
+  },
+  {
+    "latitude": 39.73611831665039,
+    "longitude": -104.96631622314453,
+    "bearing": 278,
+    "routeId": "10"
+  },
+  {
+    "latitude": 39.73761749267578,
+    "longitude": -104.99168395996094,
+    "bearing": 1,
+    "routeId": "52"
+  },
+  {
+    "latitude": 39.78611755371094,
+    "longitude": -105.08114624023438,
+    "bearing": 253,
+    "routeId": "72L"
+  },
+  {
+    "latitude": 39.74098205566406,
+    "longitude": -104.993896484375,
+    "bearing": 322,
+    "routeId": "19"
+  },
+  {
+    "latitude": 39.707550048828125,
+    "longitude": -104.99081420898438,
+    "bearing": 88,
+    "routeId": "3"
+  },
+  {
+    "latitude": 39.885032653808594,
+    "longitude": -105.0230484008789,
+    "bearing": 91,
+    "routeId": "104"
+  },
+  {
+    "latitude": 39.85676574707031,
+    "longitude": -104.98393249511719,
+    "bearing": 179,
+    "routeId": "88"
+  },
+  {
+    "latitude": 39.696449279785156,
+    "longitude": -105.02496337890625,
+    "bearing": 0,
+    "routeId": "30"
+  },
+  {
+    "latitude": 39.87990188598633,
+    "longitude": -105.09601593017578,
+    "bearing": 357,
+    "routeId": "76"
+  },
+  {
+    "latitude": 39.75075149536133,
+    "longitude": -104.98731994628906,
+    "bearing": 359,
+    "routeId": "44"
+  },
+  {
+    "latitude": 39.753318786621094,
+    "longitude": -104.99293518066406,
+    "bearing": 317,
+    "routeId": "52"
+  },
+  {
+    "latitude": 39.82721710205078,
+    "longitude": -105.06221771240234,
+    "bearing": 94,
+    "routeId": "72"
+  },
+  {
+    "latitude": 39.82718276977539,
+    "longitude": -104.91639709472656,
+    "bearing": 92,
+    "routeId": "88"
+  },
+  {
+    "latitude": 39.857601165771484,
+    "longitude": -105.05425262451172,
+    "bearing": 157,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.885467529296875,
+    "longitude": -104.99331665039062,
+    "bearing": 175,
+    "routeId": "12"
+  },
+  {
+    "latitude": 39.798431396484375,
+    "longitude": -105.07691955566406,
+    "bearing": 102,
+    "routeId": "72W"
+  },
+  {
+    "latitude": 39.6788330078125,
+    "longitude": -105.025146484375,
+    "bearing": 183,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.88669967651367,
+    "longitude": -105.02519989013672,
+    "bearing": 180,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.711666107177734,
+    "longitude": -104.94039916992188,
+    "bearing": 268,
+    "routeId": "3"
+  },
+  {
+    "latitude": 39.5615348815918,
+    "longitude": -104.96168518066406,
+    "bearing": 73,
+    "routeId": "24"
+  },
+  {
+    "latitude": 39.694400787353516,
+    "longitude": -104.83733367919922,
+    "bearing": 341,
+    "routeId": "11"
+  },
+  {
+    "latitude": 39.68769836425781,
+    "longitude": -104.9594497680664,
+    "bearing": 182,
+    "routeId": "24"
+  },
+  {
+    "latitude": 39.85580062866211,
+    "longitude": -105.0819320678711,
+    "bearing": 182,
+    "routeId": "76"
+  },
+  {
+    "latitude": 39.85649871826172,
+    "longitude": -105.07334899902344,
+    "bearing": 89,
+    "routeId": "100"
+  },
+  {
+    "latitude": 39.74738311767578,
+    "longitude": -104.97328186035156,
+    "bearing": 357,
+    "routeId": "12"
+  },
+  {
+    "latitude": 39.649749755859375,
+    "longitude": -105.04714965820312,
+    "bearing": 105,
+    "routeId": "51"
+  },
+  {
+    "latitude": 39.60243225097656,
+    "longitude": -105.13507080078125,
+    "bearing": 258,
+    "routeId": "59"
+  },
+  {
+    "latitude": 39.627532958984375,
+    "longitude": -105.03479766845703,
+    "bearing": 5,
+    "routeId": "36L"
+  },
+  {
+    "latitude": 39.802066802978516,
+    "longitude": -105.10130310058594,
+    "bearing": 271,
+    "routeId": "100"
+  },
+  {
+    "latitude": 39.667701721191406,
+    "longitude": -104.97720336914062,
+    "bearing": 90,
+    "routeId": "27"
+  },
+  {
+    "latitude": 39.738800048828125,
+    "longitude": -105.11896514892578,
+    "bearing": 0,
+    "routeId": "100"
+  },
+  {
+    "latitude": 39.95768356323242,
+    "longitude": -105.09008026123047,
+    "bearing": 0,
+    "routeId": "225E"
+  },
+  {
+    "latitude": 40.05485153198242,
+    "longitude": -105.17796325683594,
+    "bearing": 276,
+    "routeId": "205"
+  },
+  {
+    "latitude": 39.766300201416016,
+    "longitude": -104.85070037841797,
+    "bearing": 345,
+    "routeId": "37"
+  },
+  {
+    "latitude": 39.77461624145508,
+    "longitude": -104.80986785888672,
+    "bearing": 181,
+    "routeId": "121"
+  },
+  {
+    "latitude": 39.7532844543457,
+    "longitude": -104.98829650878906,
+    "bearing": 137,
+    "routeId": "8"
+  },
+  {
+    "latitude": 39.74509811401367,
+    "longitude": -104.9946517944336,
+    "bearing": 311,
+    "routeId": "19"
+  },
+  {
+    "latitude": 39.776031494140625,
+    "longitude": -105.14212036132812,
+    "bearing": 28,
+    "routeId": "44"
+  },
+  {
+    "latitude": 39.74024963378906,
+    "longitude": -104.99870300292969,
+    "bearing": 274,
+    "routeId": "16L"
+  },
+  {
+    "latitude": 39.77298355102539,
+    "longitude": -104.95697021484375,
+    "bearing": 270,
+    "routeId": "24"
+  },
+  {
+    "latitude": 39.69635009765625,
+    "longitude": -105.08173370361328,
+    "bearing": 185,
+    "routeId": "76"
+  },
+  {
+    "latitude": 39.75564956665039,
+    "longitude": -105.02508544921875,
+    "bearing": 1,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.696617126464844,
+    "longitude": -104.94505310058594,
+    "bearing": 270,
+    "routeId": "11"
+  },
+  {
+    "latitude": 39.678466796875,
+    "longitude": -105.02034759521484,
+    "bearing": 0,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.9380989074707,
+    "longitude": -104.9468994140625,
+    "bearing": 279,
+    "routeId": "92"
+  },
+  {
+    "latitude": 39.92060089111328,
+    "longitude": -104.99665069580078,
+    "bearing": 1,
+    "routeId": "8"
+  },
+  {
+    "latitude": 39.7016487121582,
+    "longitude": -104.98961639404297,
+    "bearing": 277,
+    "routeId": "14"
+  },
+  {
+    "latitude": 39.79838180541992,
+    "longitude": -104.92254638671875,
+    "bearing": 288,
+    "routeId": "40"
+  },
+  {
+    "latitude": 39.734718322753906,
+    "longitude": -104.94053649902344,
+    "bearing": 359,
+    "routeId": "40"
+  },
+  {
+    "latitude": 39.71836853027344,
+    "longitude": -104.98188018798828,
+    "bearing": 272,
+    "routeId": "1"
+  },
+  {
+    "latitude": 39.85493469238281,
+    "longitude": -104.9861831665039,
+    "bearing": 142,
+    "routeId": "92"
+  },
+  {
+    "latitude": 39.857582092285156,
+    "longitude": -104.97799682617188,
+    "bearing": 178,
+    "routeId": "92"
+  },
+  {
+    "latitude": 39.745849609375,
+    "longitude": -105.00393676757812,
+    "bearing": 350,
+    "routeId": "6"
+  },
+  {
+    "latitude": 39.67546844482422,
+    "longitude": -104.94056701660156,
+    "bearing": 0,
+    "routeId": "40"
+  },
+  {
+    "latitude": 39.71849822998047,
+    "longitude": -105.06680297851562,
+    "bearing": 89,
+    "routeId": "1"
+  },
+  {
+    "latitude": 39.92253112792969,
+    "longitude": -105.11418151855469,
+    "bearing": 266,
+    "routeId": "228"
+  },
+  {
+    "latitude": 39.98699951171875,
+    "longitude": -104.76771545410156,
+    "bearing": 265,
+    "routeId": "120"
+  },
+  {
+    "latitude": 39.863582611083984,
+    "longitude": -105.07933044433594,
+    "bearing": 99,
+    "routeId": "92"
+  },
+  {
+    "latitude": 39.707149505615234,
+    "longitude": -105.08114624023438,
+    "bearing": 270,
+    "routeId": "1"
+  },
+  {
+    "latitude": 39.92401885986328,
+    "longitude": -105.12809753417969,
+    "bearing": 194,
+    "routeId": "228"
+  },
+  {
+    "latitude": 39.70966720581055,
+    "longitude": -104.94059753417969,
+    "bearing": 1,
+    "routeId": "40"
+  },
+  {
+    "latitude": 39.77669906616211,
+    "longitude": -105.0761489868164,
+    "bearing": 270,
+    "routeId": "44"
+  },
+  {
+    "latitude": 39.72553253173828,
+    "longitude": -104.81966400146484,
+    "bearing": 92,
+    "routeId": "10"
+  },
+  {
+    "latitude": 39.9698486328125,
+    "longitude": -105.24725341796875,
+    "bearing": 197,
+    "routeId": "SKIP"
+  },
+  {
+    "latitude": 40.03239822387695,
+    "longitude": -105.25831604003906,
+    "bearing": 0,
+    "routeId": "205T"
+  },
+  {
+    "latitude": 40.0147819519043,
+    "longitude": -105.22615051269531,
+    "bearing": 274,
+    "routeId": "206F"
+  },
+  {
+    "latitude": 40.01371765136719,
+    "longitude": -105.24967956542969,
+    "bearing": 277,
+    "routeId": "STMP"
+  },
+  {
+    "latitude": 39.97285079956055,
+    "longitude": -105.26007080078125,
+    "bearing": 0,
+    "routeId": "SKIP"
+  },
+  {
+    "latitude": 40.0001335144043,
+    "longitude": -105.26011657714844,
+    "bearing": 2,
+    "routeId": "204"
+  },
+  {
+    "latitude": 40.02220153808594,
+    "longitude": -105.27046966552734,
+    "bearing": 166,
+    "routeId": "204"
+  },
+  {
+    "latitude": 40.015933990478516,
+    "longitude": -105.25386810302734,
+    "bearing": 182,
+    "routeId": "BOND"
+  },
+  {
+    "latitude": 40.037498474121094,
+    "longitude": -105.25520324707031,
+    "bearing": 70,
+    "routeId": "BOND"
+  },
+  {
+    "latitude": 40.015316009521484,
+    "longitude": -105.25354766845703,
+    "bearing": 6,
+    "routeId": "BOND"
+  },
+  {
+    "latitude": 40.00728225708008,
+    "longitude": -105.25360107421875,
+    "bearing": 84,
+    "routeId": "209"
+  },
+  {
+    "latitude": 40.013648986816406,
+    "longitude": -105.25357055664062,
+    "bearing": 266,
+    "routeId": "STMP"
+  },
+  {
+    "latitude": 40.005916595458984,
+    "longitude": -105.2701644897461,
+    "bearing": 98,
+    "routeId": "STMP"
+  },
+  {
+    "latitude": 40.02546691894531,
+    "longitude": -105.21894836425781,
+    "bearing": 91,
+    "routeId": "208F"
+  },
+  {
+    "latitude": 0,
+    "longitude": 0,
+    "bearing": 0,
+    "routeId": "204"
+  },
+  {
+    "latitude": 40.017215728759766,
+    "longitude": -105.2770004272461,
+    "bearing": 168,
+    "routeId": "208"
+  },
+  {
+    "latitude": 40.0217170715332,
+    "longitude": -105.27020263671875,
+    "bearing": 344,
+    "routeId": "204"
+  },
+  {
+    "latitude": 40.00016784667969,
+    "longitude": -105.15008544921875,
+    "bearing": 270,
+    "routeId": "225E"
+  },
+  {
+    "latitude": 40.01541519165039,
+    "longitude": -105.279052734375,
+    "bearing": 345,
+    "routeId": "225D"
+  },
+  {
+    "latitude": 40.00751876831055,
+    "longitude": -105.24271392822266,
+    "bearing": 78,
+    "routeId": "STMP"
+  },
+  {
+    "latitude": 39.69296646118164,
+    "longitude": -104.97671508789062,
+    "bearing": 90,
+    "routeId": "11"
+  },
+  {
+    "latitude": 39.79108428955078,
+    "longitude": -105.0472183227539,
+    "bearing": 90,
+    "routeId": "52"
+  },
+  {
+    "latitude": 39.71099853515625,
+    "longitude": -105.08174896240234,
+    "bearing": 87,
+    "routeId": "76"
+  },
+  {
+    "latitude": 39.739749908447266,
+    "longitude": -105.08158111572266,
+    "bearing": 183,
+    "routeId": "76"
+  },
+  {
+    "latitude": 39.7496337890625,
+    "longitude": -104.99568176269531,
+    "bearing": 137,
+    "routeId": "28"
+  },
+  {
+    "latitude": 39.69221878051758,
+    "longitude": -105.05328369140625,
+    "bearing": 180,
+    "routeId": "50"
+  },
+  {
+    "latitude": 39.73713302612305,
+    "longitude": -104.95856475830078,
+    "bearing": 353,
+    "routeId": "24"
+  },
+  {
+    "latitude": 39.79069900512695,
+    "longitude": -105.02507019042969,
+    "bearing": 355,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.6571159362793,
+    "longitude": -104.95939636230469,
+    "bearing": 1,
+    "routeId": "24"
+  },
+  {
+    "latitude": 39.70881652832031,
+    "longitude": -104.99246978759766,
+    "bearing": 182,
+    "routeId": "52"
+  },
+  {
+    "latitude": 39.742218017578125,
+    "longitude": -104.84471893310547,
+    "bearing": 2,
+    "routeId": "20"
+  },
+  {
+    "latitude": 39.79096603393555,
+    "longitude": -105.08155059814453,
+    "bearing": 183,
+    "routeId": "76"
+  },
+  {
+    "latitude": 39.71659851074219,
+    "longitude": -104.99214935302734,
+    "bearing": 0,
+    "routeId": "52"
+  },
+  {
+    "latitude": 39.71125030517578,
+    "longitude": -105.020751953125,
+    "bearing": 270,
+    "routeId": "3"
+  },
+  {
+    "latitude": 39.780216217041016,
+    "longitude": -105.01522064208984,
+    "bearing": 270,
+    "routeId": "52"
+  },
+  {
+    "latitude": 39.81266784667969,
+    "longitude": -105.14119720458984,
+    "bearing": 90,
+    "routeId": "72"
+  },
+  {
+    "latitude": 39.805484771728516,
+    "longitude": -104.93071746826172,
+    "bearing": 88,
+    "routeId": "88"
+  },
+  {
+    "latitude": 39.6880989074707,
+    "longitude": -105.10034942626953,
+    "bearing": 180,
+    "routeId": "100"
+  },
+  {
+    "latitude": 39.72566604614258,
+    "longitude": -104.91283416748047,
+    "bearing": 177,
+    "routeId": "65"
+  },
+  {
+    "latitude": 39.74396514892578,
+    "longitude": -105.04793548583984,
+    "bearing": 90,
+    "routeId": "20"
+  },
+  {
+    "latitude": 39.87608337402344,
+    "longitude": -104.98348236083984,
+    "bearing": 347,
+    "routeId": "88"
+  },
+  {
+    "latitude": 39.745967864990234,
+    "longitude": -105.00244903564453,
+    "bearing": 242,
+    "routeId": "43"
+  },
+  {
+    "latitude": 39.73306655883789,
+    "longitude": -105.05343627929688,
+    "bearing": 90,
+    "routeId": "9"
+  },
+  {
+    "latitude": 39.71125030517578,
+    "longitude": -104.99371337890625,
+    "bearing": 267,
+    "routeId": "4"
+  },
+  {
+    "latitude": 39.73891830444336,
+    "longitude": -105.117919921875,
+    "bearing": 273,
+    "routeId": "16L"
+  },
+  {
+    "latitude": 39.73963165283203,
+    "longitude": -104.9740982055664,
+    "bearing": 181,
+    "routeId": "12"
+  },
+  {
+    "latitude": 39.74001693725586,
+    "longitude": -105.1229476928711,
+    "bearing": 91,
+    "routeId": "16L"
+  },
+  {
+    "latitude": 39.71965026855469,
+    "longitude": -105.12873077392578,
+    "bearing": 104,
+    "routeId": "3"
+  },
+  {
+    "latitude": 39.76628112792969,
+    "longitude": -104.85086822509766,
+    "bearing": 0,
+    "routeId": "153"
+  },
+  {
+    "latitude": 39.66756820678711,
+    "longitude": -104.8333969116211,
+    "bearing": 90,
+    "routeId": "130"
+  },
+  {
+    "latitude": 39.631065368652344,
+    "longitude": -104.98802947998047,
+    "bearing": 182,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.754432678222656,
+    "longitude": -105.0015640258789,
+    "bearing": 126,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.70786666870117,
+    "longitude": -104.81809997558594,
+    "bearing": 287,
+    "routeId": "3"
+  },
+  {
+    "latitude": 39.745201110839844,
+    "longitude": -104.9948501586914,
+    "bearing": 307,
+    "routeId": "20"
+  },
+  {
+    "latitude": 39.697967529296875,
+    "longitude": -104.98757934570312,
+    "bearing": 172,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.77656555175781,
+    "longitude": -105.01471710205078,
+    "bearing": 90,
+    "routeId": "44"
+  },
+  {
+    "latitude": 39.79275131225586,
+    "longitude": -105.08074951171875,
+    "bearing": 214,
+    "routeId": "55L"
+  },
+  {
+    "latitude": 39.82716751098633,
+    "longitude": -104.91578674316406,
+    "bearing": 93,
+    "routeId": "48"
+  },
+  {
+    "latitude": 39.680267333984375,
+    "longitude": -104.94263458251953,
+    "bearing": 277,
+    "routeId": "21"
+  },
+  {
+    "latitude": 39.73998260498047,
+    "longitude": -104.99736785888672,
+    "bearing": 90,
+    "routeId": "16L"
+  },
+  {
+    "latitude": 39.74266815185547,
+    "longitude": -104.99124908447266,
+    "bearing": 228,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.72809982299805,
+    "longitude": -104.84728240966797,
+    "bearing": 178,
+    "routeId": "121"
+  },
+  {
+    "latitude": 39.74586868286133,
+    "longitude": -104.99079895019531,
+    "bearing": 140,
+    "routeId": "9"
+  },
+  {
+    "latitude": 39.70199966430664,
+    "longitude": -104.98953247070312,
+    "bearing": 260,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.73308181762695,
+    "longitude": -105.0481185913086,
+    "bearing": 271,
+    "routeId": "9"
+  },
+  {
+    "latitude": 39.82386779785156,
+    "longitude": -104.90531921386719,
+    "bearing": 74,
+    "routeId": "48"
+  },
+  {
+    "latitude": 39.75341796875,
+    "longitude": -105.00288391113281,
+    "bearing": 43,
+    "routeId": "20"
+  },
+  {
+    "latitude": 39.74716567993164,
+    "longitude": -104.99368286132812,
+    "bearing": 233,
+    "routeId": "1"
+  },
+  {
+    "latitude": 39.747249603271484,
+    "longitude": -104.99005126953125,
+    "bearing": 308,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.70731735229492,
+    "longitude": -104.87528228759766,
+    "bearing": 1,
+    "routeId": "3"
+  },
+  {
+    "latitude": 39.75436782836914,
+    "longitude": -105.22035217285156,
+    "bearing": 322,
+    "routeId": "16L"
+  },
+  {
+    "latitude": 39.689632415771484,
+    "longitude": -105.08149719238281,
+    "bearing": 178,
+    "routeId": "14"
+  },
+  {
+    "latitude": 39.67543411254883,
+    "longitude": -104.82029724121094,
+    "bearing": 0,
+    "routeId": "21"
+  },
+  {
+    "latitude": 39.68259811401367,
+    "longitude": -105.10013580322266,
+    "bearing": 359,
+    "routeId": "100"
+  },
+  {
+    "latitude": 39.59489822387695,
+    "longitude": -104.85688018798828,
+    "bearing": 90,
+    "routeId": "66"
+  },
+  {
+    "latitude": 39.82793426513672,
+    "longitude": -105.00606536865234,
+    "bearing": 0,
+    "routeId": "19"
+  },
+  {
+    "latitude": 39.77199935913086,
+    "longitude": -104.94063568115234,
+    "bearing": 183,
+    "routeId": "40"
+  },
+  {
+    "latitude": 39.74020004272461,
+    "longitude": -105.07682037353516,
+    "bearing": 90,
+    "routeId": "16"
+  },
+  {
+    "latitude": 39.74140167236328,
+    "longitude": -104.98625183105469,
+    "bearing": 349,
+    "routeId": "16"
+  },
+  {
+    "latitude": 39.730716705322266,
+    "longitude": -104.98606872558594,
+    "bearing": 2,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.78256607055664,
+    "longitude": -104.8695297241211,
+    "bearing": 270,
+    "routeId": "42"
+  },
+  {
+    "latitude": 39.74021530151367,
+    "longitude": -104.9168472290039,
+    "bearing": 267,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.788551330566406,
+    "longitude": -104.827880859375,
+    "bearing": 298,
+    "routeId": "45"
+  },
+  {
+    "latitude": 39.744483947753906,
+    "longitude": -104.99371337890625,
+    "bearing": 307,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.67411804199219,
+    "longitude": -104.86609649658203,
+    "bearing": 181,
+    "routeId": "105"
+  },
+  {
+    "latitude": 39.65299987792969,
+    "longitude": -104.8104476928711,
+    "bearing": 91,
+    "routeId": "133"
+  },
+  {
+    "latitude": 39.769615173339844,
+    "longitude": -104.89136505126953,
+    "bearing": 4,
+    "routeId": "105"
+  },
+  {
+    "latitude": 39.65311813354492,
+    "longitude": -104.9126968383789,
+    "bearing": 270,
+    "routeId": "105"
+  },
+  {
+    "latitude": 39.739967346191406,
+    "longitude": -104.97103118896484,
+    "bearing": 91,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.775917053222656,
+    "longitude": -104.80989837646484,
+    "bearing": 183,
+    "routeId": "42"
+  },
+  {
+    "latitude": 39.63874816894531,
+    "longitude": -104.89976501464844,
+    "bearing": 275,
+    "routeId": "105"
+  },
+  {
+    "latitude": 39.769248962402344,
+    "longitude": -104.89171600341797,
+    "bearing": 176,
+    "routeId": "34"
+  },
+  {
+    "latitude": 39.77296829223633,
+    "longitude": -104.78518676757812,
+    "bearing": 269,
+    "routeId": "121"
+  },
+  {
+    "latitude": 39.77671813964844,
+    "longitude": -104.88273620605469,
+    "bearing": 0,
+    "routeId": "42"
+  },
+  {
+    "latitude": 39.79079818725586,
+    "longitude": -104.76229858398438,
+    "bearing": 140,
+    "routeId": "45"
+  },
+  {
+    "latitude": 39.739532470703125,
+    "longitude": -104.8469009399414,
+    "bearing": 358,
+    "routeId": "121"
+  },
+  {
+    "latitude": 39.6885986328125,
+    "longitude": -104.84728240966797,
+    "bearing": 179,
+    "routeId": "121"
+  },
+  {
+    "latitude": 39.76654815673828,
+    "longitude": -104.85078430175781,
+    "bearing": 178,
+    "routeId": "121"
+  },
+  {
+    "latitude": 39.708248138427734,
+    "longitude": -104.81806945800781,
+    "bearing": 66,
+    "routeId": "153"
+  },
+  {
+    "latitude": 39.74736785888672,
+    "longitude": -104.88397979736328,
+    "bearing": 80,
+    "routeId": "20"
+  },
+  {
+    "latitude": 39.707584381103516,
+    "longitude": -104.99171447753906,
+    "bearing": 272,
+    "routeId": "3"
+  },
+  {
+    "latitude": 39.74966812133789,
+    "longitude": -104.88710021972656,
+    "bearing": 131,
+    "routeId": "105"
+  },
+  {
+    "latitude": 39.609283447265625,
+    "longitude": -104.74565124511719,
+    "bearing": 99,
+    "routeId": "139"
+  },
+  {
+    "latitude": 39.679351806640625,
+    "longitude": -105.03865051269531,
+    "bearing": 292,
+    "routeId": "21"
+  },
+  {
+    "latitude": 39.70068359375,
+    "longitude": -104.78050231933594,
+    "bearing": 65,
+    "routeId": "133"
+  },
+  {
+    "latitude": 39.609100341796875,
+    "longitude": -104.74866485595703,
+    "bearing": 110,
+    "routeId": "135"
+  },
+  {
+    "latitude": 39.74005126953125,
+    "longitude": -104.86177062988281,
+    "bearing": 87,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.69404983520508,
+    "longitude": -104.7909164428711,
+    "bearing": 2,
+    "routeId": "130"
+  },
+  {
+    "latitude": 39.75918197631836,
+    "longitude": -104.97366333007812,
+    "bearing": 334,
+    "routeId": "34"
+  },
+  {
+    "latitude": 39.74024963378906,
+    "longitude": -104.86546325683594,
+    "bearing": 272,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.740116119384766,
+    "longitude": -104.82296752929688,
+    "bearing": 356,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.777801513671875,
+    "longitude": -104.84691619873047,
+    "bearing": 0,
+    "routeId": "121"
+  },
+  {
+    "latitude": 39.73473358154297,
+    "longitude": -104.90350341796875,
+    "bearing": 180,
+    "routeId": "73"
+  },
+  {
+    "latitude": 39.70233154296875,
+    "longitude": -104.90345001220703,
+    "bearing": 359,
+    "routeId": "73"
+  },
+  {
+    "latitude": 39.76728439331055,
+    "longitude": -104.89741516113281,
+    "bearing": 86,
+    "routeId": "65"
+  },
+  {
+    "latitude": 39.70003128051758,
+    "longitude": -104.84709930419922,
+    "bearing": 0,
+    "routeId": "121"
+  },
+  {
+    "latitude": 39.78020095825195,
+    "longitude": -104.75906372070312,
+    "bearing": 176,
+    "routeId": "42"
+  },
+  {
+    "latitude": 39.71833419799805,
+    "longitude": -105.13520050048828,
+    "bearing": 354,
+    "routeId": "21"
+  },
+  {
+    "latitude": 39.77876663208008,
+    "longitude": -104.96873474121094,
+    "bearing": 310,
+    "routeId": "48"
+  },
+  {
+    "latitude": 39.75398254394531,
+    "longitude": -105.0019302368164,
+    "bearing": 305,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.674983978271484,
+    "longitude": -104.82845306396484,
+    "bearing": 270,
+    "routeId": "21"
+  },
+  {
+    "latitude": 39.59283447265625,
+    "longitude": -104.8398666381836,
+    "bearing": 273,
+    "routeId": "66"
+  },
+  {
+    "latitude": 39.75128173828125,
+    "longitude": -104.98805236816406,
+    "bearing": 137,
+    "routeId": "36L"
+  },
+  {
+    "latitude": 39.74081802368164,
+    "longitude": -105.02410125732422,
+    "bearing": 299,
+    "routeId": "30"
+  },
+  {
+    "latitude": 39.85693359375,
+    "longitude": -105.05380249023438,
+    "bearing": 210,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.7734489440918,
+    "longitude": -105.02531433105469,
+    "bearing": 181,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.61028289794922,
+    "longitude": -105.01634979248047,
+    "bearing": 91,
+    "routeId": "36L"
+  },
+  {
+    "latitude": 39.7109489440918,
+    "longitude": -105.02490234375,
+    "bearing": 0,
+    "routeId": "36L"
+  },
+  {
+    "latitude": 39.62386703491211,
+    "longitude": -105.0253677368164,
+    "bearing": 358,
+    "routeId": "29"
+  },
+  {
+    "latitude": 39.913631439208984,
+    "longitude": -105.05278015136719,
+    "bearing": 0,
+    "routeId": "51"
+  },
+  {
+    "latitude": 39.74528121948242,
+    "longitude": -105.05329895019531,
+    "bearing": 177,
+    "routeId": "51"
+  },
+  {
+    "latitude": 39.67475128173828,
+    "longitude": -104.88359832763672,
+    "bearing": 90,
+    "routeId": "21"
+  },
+  {
+    "latitude": 39.595218658447266,
+    "longitude": -104.94096374511719,
+    "bearing": 272,
+    "routeId": "66"
+  },
+  {
+    "latitude": 39.849449157714844,
+    "longitude": -105.05311584472656,
+    "bearing": 0,
+    "routeId": "51"
+  },
+  {
+    "latitude": 39.72774887084961,
+    "longitude": -105.1283187866211,
+    "bearing": 356,
+    "routeId": "100"
+  },
+  {
+    "latitude": 39.88461685180664,
+    "longitude": -105.02507019042969,
+    "bearing": 0,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.66754913330078,
+    "longitude": -104.94253540039062,
+    "bearing": 271,
+    "routeId": "27"
+  },
+  {
+    "latitude": 39.60923385620117,
+    "longitude": -105.02088165283203,
+    "bearing": 178,
+    "routeId": "66"
+  },
+  {
+    "latitude": 39.755165100097656,
+    "longitude": -105.05313110351562,
+    "bearing": 1,
+    "routeId": "51"
+  },
+  {
+    "latitude": 39.81534957885742,
+    "longitude": -105.05338287353516,
+    "bearing": 179,
+    "routeId": "51"
+  },
+  {
+    "latitude": 39.656532287597656,
+    "longitude": -104.99933624267578,
+    "bearing": 26,
+    "routeId": "51"
+  },
+  {
+    "latitude": 39.79629898071289,
+    "longitude": -105.07962036132812,
+    "bearing": 87,
+    "routeId": "52"
+  },
+  {
+    "latitude": 39.69648361206055,
+    "longitude": -104.89189910888672,
+    "bearing": 90,
+    "routeId": "11"
+  },
+  {
+    "latitude": 39.744468688964844,
+    "longitude": -104.95933532714844,
+    "bearing": 332,
+    "routeId": "20"
+  },
+  {
+    "latitude": 39.82318115234375,
+    "longitude": -105.027099609375,
+    "bearing": 220,
+    "routeId": "72"
+  },
+  {
+    "latitude": 39.70029830932617,
+    "longitude": -105.05316925048828,
+    "bearing": 359,
+    "routeId": "11"
+  },
+  {
+    "latitude": 39.758365631103516,
+    "longitude": -104.91801452636719,
+    "bearing": 89,
+    "routeId": "28"
+  },
+  {
+    "latitude": 39.71138381958008,
+    "longitude": -105.02523040771484,
+    "bearing": 180,
+    "routeId": "36L"
+  },
+  {
+    "latitude": 39.75486755371094,
+    "longitude": -105.04751586914062,
+    "bearing": 90,
+    "routeId": "28"
+  },
+  {
+    "latitude": 39.766082763671875,
+    "longitude": -105.14216613769531,
+    "bearing": 282,
+    "routeId": "38"
+  },
+  {
+    "latitude": 39.745548248291016,
+    "longitude": -105.05796813964844,
+    "bearing": 1,
+    "routeId": "20"
+  },
+  {
+    "latitude": 39.82713317871094,
+    "longitude": -104.92859649658203,
+    "bearing": 91,
+    "routeId": "72W"
+  },
+  {
+    "latitude": 39.7376823425293,
+    "longitude": -105.02532958984375,
+    "bearing": 185,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.70783233642578,
+    "longitude": -104.81900024414062,
+    "bearing": 83,
+    "routeId": "11"
+  },
+  {
+    "latitude": 39.69673156738281,
+    "longitude": -104.99888610839844,
+    "bearing": 271,
+    "routeId": "11"
+  },
+  {
+    "latitude": 39.81214904785156,
+    "longitude": -105.14273071289062,
+    "bearing": 8,
+    "routeId": "52"
+  },
+  {
+    "latitude": 39.82416534423828,
+    "longitude": -105.02790069580078,
+    "bearing": 268,
+    "routeId": "31"
+  },
+  {
+    "latitude": 39.85618209838867,
+    "longitude": -104.9539794921875,
+    "bearing": 270,
+    "routeId": "88"
+  },
+  {
+    "latitude": 39.749515533447266,
+    "longitude": -104.99549865722656,
+    "bearing": 122,
+    "routeId": "52"
+  },
+  {
+    "latitude": 39.77000045776367,
+    "longitude": -104.89136505126953,
+    "bearing": 6,
+    "routeId": "88"
+  },
+  {
+    "latitude": 39.76921844482422,
+    "longitude": -105.00386810302734,
+    "bearing": 93,
+    "routeId": "38"
+  },
+  {
+    "latitude": 39.729183197021484,
+    "longitude": -104.94778442382812,
+    "bearing": 272,
+    "routeId": "6"
+  },
+  {
+    "latitude": 39.76508331298828,
+    "longitude": -104.94046783447266,
+    "bearing": 359,
+    "routeId": "40"
+  },
+  {
+    "latitude": 39.74993133544922,
+    "longitude": -105.00070190429688,
+    "bearing": 316,
+    "routeId": "10"
+  },
+  {
+    "latitude": 39.82813262939453,
+    "longitude": -104.98726654052734,
+    "bearing": 358,
+    "routeId": "8"
+  },
+  {
+    "latitude": 39.722599029541016,
+    "longitude": -104.78331756591797,
+    "bearing": 177,
+    "routeId": "157"
+  },
+  {
+    "latitude": 39.699832916259766,
+    "longitude": -104.94083404541016,
+    "bearing": 180,
+    "routeId": "40"
+  },
+  {
+    "latitude": 39.73436737060547,
+    "longitude": -104.83055114746094,
+    "bearing": 261,
+    "routeId": "6"
+  },
+  {
+    "latitude": 39.7336311340332,
+    "longitude": -104.94080352783203,
+    "bearing": 179,
+    "routeId": "40"
+  },
+  {
+    "latitude": 39.75210189819336,
+    "longitude": -105.00370025634766,
+    "bearing": 136,
+    "routeId": "10"
+  },
+  {
+    "latitude": 39.986717224121094,
+    "longitude": -104.81089782714844,
+    "bearing": 90,
+    "routeId": "120"
+  },
+  {
+    "latitude": 39.90208435058594,
+    "longitude": -105.07173156738281,
+    "bearing": 3,
+    "routeId": "112"
+  },
+  {
+    "latitude": 39.88529968261719,
+    "longitude": -104.99633026123047,
+    "bearing": 269,
+    "routeId": "19"
+  },
+  {
+    "latitude": 39.72548294067383,
+    "longitude": -104.87556457519531,
+    "bearing": 91,
+    "routeId": "6"
+  },
+  {
+    "latitude": 39.769466400146484,
+    "longitude": -105.04906463623047,
+    "bearing": 270,
+    "routeId": "38"
+  },
+  {
+    "latitude": 39.73101806640625,
+    "longitude": -104.93846893310547,
+    "bearing": 90,
+    "routeId": "10"
+  },
+  {
+    "latitude": 39.7548828125,
+    "longitude": -104.98783111572266,
+    "bearing": 309,
+    "routeId": "8"
+  },
+  {
+    "latitude": 40.0234489440918,
+    "longitude": -105.25341796875,
+    "bearing": 256,
+    "routeId": "236"
+  },
+  {
+    "latitude": 39.98703384399414,
+    "longitude": -105.2322006225586,
+    "bearing": 293,
+    "routeId": "DASH"
+  },
+  {
+    "latitude": 40.00749969482422,
+    "longitude": -105.27490234375,
+    "bearing": 149,
+    "routeId": "DASH"
+  },
+  {
+    "latitude": 39.98666763305664,
+    "longitude": -105.17871856689453,
+    "bearing": 90,
+    "routeId": "DASH"
+  },
+  {
+    "latitude": 39.986915588378906,
+    "longitude": -105.10733032226562,
+    "bearing": 91,
+    "routeId": "DASH"
+  },
+  {
+    "latitude": 39.98473358154297,
+    "longitude": -105.25091552734375,
+    "bearing": 49,
+    "routeId": "SKIP"
+  },
+  {
+    "latitude": 39.97719955444336,
+    "longitude": -105.24251556396484,
+    "bearing": 144,
+    "routeId": "SKIP"
+  },
+  {
+    "latitude": 40.05586624145508,
+    "longitude": -105.28213500976562,
+    "bearing": 180,
+    "routeId": "SKIP"
+  },
+  {
+    "latitude": 40.05173110961914,
+    "longitude": -105.28206634521484,
+    "bearing": 0,
+    "routeId": "SKIP"
+  },
+  {
+    "latitude": 39.97679901123047,
+    "longitude": -105.13273620605469,
+    "bearing": 272,
+    "routeId": "DASH"
+  },
+  {
+    "latitude": 40.01881790161133,
+    "longitude": -105.28036499023438,
+    "bearing": 165,
+    "routeId": "SKIP"
+  },
+  {
+    "latitude": 40.027931213378906,
+    "longitude": -105.28206634521484,
+    "bearing": 0,
+    "routeId": "SKIP"
+  },
+  {
+    "latitude": 39.99808120727539,
+    "longitude": -105.26021575927734,
+    "bearing": 180,
+    "routeId": "BOND"
+  },
+  {
+    "latitude": 40.05131530761719,
+    "longitude": -105.28203582763672,
+    "bearing": 358,
+    "routeId": "SKIP"
+  },
+  {
+    "latitude": 40.00831604003906,
+    "longitude": -105.2667465209961,
+    "bearing": 270,
+    "routeId": "STMP"
+  },
+  {
+    "latitude": 39.98851776123047,
+    "longitude": -105.08995056152344,
+    "bearing": 232,
+    "routeId": "DASH"
+  },
+  {
+    "latitude": 40.00623321533203,
+    "longitude": -105.27293395996094,
+    "bearing": 127,
+    "routeId": "SKIP"
+  },
+  {
+    "latitude": 40.017051696777344,
+    "longitude": -105.27693176269531,
+    "bearing": 171,
+    "routeId": "DASH"
+  },
+  {
+    "latitude": 39.72346878051758,
+    "longitude": -104.8099136352539,
+    "bearing": 342,
+    "routeId": "153"
+  },
+  {
+    "latitude": 39.73794937133789,
+    "longitude": -105.0257339477539,
+    "bearing": 91,
+    "routeId": "16"
+  },
+  {
+    "latitude": 39.67766571044922,
+    "longitude": -104.98750305175781,
+    "bearing": 359,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.74981689453125,
+    "longitude": -104.99576568603516,
+    "bearing": 132,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.78196716308594,
+    "longitude": -104.9650650024414,
+    "bearing": 266,
+    "routeId": "48"
+  },
+  {
+    "latitude": 39.783634185791016,
+    "longitude": -104.94049835205078,
+    "bearing": 1,
+    "routeId": "44"
+  },
+  {
+    "latitude": 39.74763488769531,
+    "longitude": -104.99064636230469,
+    "bearing": 41,
+    "routeId": "43"
+  },
+  {
+    "latitude": 39.689517974853516,
+    "longitude": -105.06331634521484,
+    "bearing": 268,
+    "routeId": "14"
+  },
+  {
+    "latitude": 39.638668060302734,
+    "longitude": -104.82301330566406,
+    "bearing": 270,
+    "routeId": "139"
+  },
+  {
+    "latitude": 39.78523254394531,
+    "longitude": -104.90326690673828,
+    "bearing": 90,
+    "routeId": "37"
+  },
+  {
+    "latitude": 39.69015121459961,
+    "longitude": -104.79118347167969,
+    "bearing": 180,
+    "routeId": "130"
+  },
+  {
+    "latitude": 39.66761779785156,
+    "longitude": -104.84439849853516,
+    "bearing": 269,
+    "routeId": "131"
+  },
+  {
+    "latitude": 39.77411651611328,
+    "longitude": -104.92243194580078,
+    "bearing": 178,
+    "routeId": "34"
+  },
+  {
+    "latitude": 39.67464828491211,
+    "longitude": -104.78621673583984,
+    "bearing": 326,
+    "routeId": "131"
+  },
+  {
+    "latitude": 39.76940155029297,
+    "longitude": -104.78368377685547,
+    "bearing": 201,
+    "routeId": "169"
+  },
+  {
+    "latitude": 39.61538314819336,
+    "longitude": -104.76371765136719,
+    "bearing": 280,
+    "routeId": "135"
+  },
+  {
+    "latitude": 39.73963165283203,
+    "longitude": -104.91506958007812,
+    "bearing": 206,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.652984619140625,
+    "longitude": -104.88365173339844,
+    "bearing": 91,
+    "routeId": "105"
+  },
+  {
+    "latitude": 39.718631744384766,
+    "longitude": -104.86605072021484,
+    "bearing": 177,
+    "routeId": "105"
+  },
+  {
+    "latitude": 39.74005126953125,
+    "longitude": -104.94104766845703,
+    "bearing": 93,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.664451599121094,
+    "longitude": -104.7677993774414,
+    "bearing": 310,
+    "routeId": "133"
+  },
+  {
+    "latitude": 39.783817291259766,
+    "longitude": -104.92376708984375,
+    "bearing": 270,
+    "routeId": "37"
+  },
+  {
+    "latitude": 39.61745071411133,
+    "longitude": -104.98789978027344,
+    "bearing": 0,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.7564811706543,
+    "longitude": -104.81935119628906,
+    "bearing": 359,
+    "routeId": "153"
+  },
+  {
+    "latitude": 39.678565979003906,
+    "longitude": -105.0255355834961,
+    "bearing": 91,
+    "routeId": "21"
+  },
+  {
+    "latitude": 39.75410079956055,
+    "longitude": -105.0002670288086,
+    "bearing": 98,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.67879867553711,
+    "longitude": -104.93675231933594,
+    "bearing": 186,
+    "routeId": "21"
+  },
+  {
+    "latitude": 39.70064926147461,
+    "longitude": -104.86581420898438,
+    "bearing": 358,
+    "routeId": "105"
+  },
+  {
+    "latitude": 39.744651794433594,
+    "longitude": -104.99386596679688,
+    "bearing": 304,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.63090133666992,
+    "longitude": -104.89604949951172,
+    "bearing": 328,
+    "routeId": "65"
+  },
+  {
+    "latitude": 39.623931884765625,
+    "longitude": -104.90253448486328,
+    "bearing": 271,
+    "routeId": "73"
+  },
+  {
+    "latitude": 39.75113296508789,
+    "longitude": -104.93319702148438,
+    "bearing": 271,
+    "routeId": "20"
+  },
+  {
+    "latitude": 39.67828369140625,
+    "longitude": -104.9126968383789,
+    "bearing": 0,
+    "routeId": "65"
+  },
+  {
+    "latitude": 39.754451751708984,
+    "longitude": -105.00161743164062,
+    "bearing": 35,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.77631759643555,
+    "longitude": -104.82733154296875,
+    "bearing": 66,
+    "routeId": "42"
+  },
+  {
+    "latitude": 39.653099060058594,
+    "longitude": -104.7686996459961,
+    "bearing": 270,
+    "routeId": "133"
+  },
+  {
+    "latitude": 39.766231536865234,
+    "longitude": -104.84703063964844,
+    "bearing": 180,
+    "routeId": "37"
+  },
+  {
+    "latitude": 39.649818420410156,
+    "longitude": -104.91314697265625,
+    "bearing": 180,
+    "routeId": "105"
+  },
+  {
+    "latitude": 39.724365234375,
+    "longitude": -105.13179779052734,
+    "bearing": 212,
+    "routeId": "16"
+  },
+  {
+    "latitude": 39.74021530151367,
+    "longitude": -105.06781768798828,
+    "bearing": 90,
+    "routeId": "16L"
+  },
+  {
+    "latitude": 39.750633239746094,
+    "longitude": -104.98861694335938,
+    "bearing": 225,
+    "routeId": "48"
+  },
+  {
+    "latitude": 39.71773147583008,
+    "longitude": -104.95040130615234,
+    "bearing": 116,
+    "routeId": "1"
+  },
+  {
+    "latitude": 39.76176834106445,
+    "longitude": -104.95616912841797,
+    "bearing": 65,
+    "routeId": "43"
+  },
+  {
+    "latitude": 39.74016571044922,
+    "longitude": -104.95919799804688,
+    "bearing": 259,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.71464920043945,
+    "longitude": -104.94871520996094,
+    "bearing": 248,
+    "routeId": "3"
+  },
+  {
+    "latitude": 39.740081787109375,
+    "longitude": -104.89823150634766,
+    "bearing": 80,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.742767333984375,
+    "longitude": -104.99136352539062,
+    "bearing": 315,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.602481842041016,
+    "longitude": -104.80646514892578,
+    "bearing": 155,
+    "routeId": "153"
+  },
+  {
+    "latitude": 39.744468688964844,
+    "longitude": -104.94058227539062,
+    "bearing": 355,
+    "routeId": "20"
+  },
+  {
+    "latitude": 39.65795135498047,
+    "longitude": -104.8456802368164,
+    "bearing": 49,
+    "routeId": "130"
+  },
+  {
+    "latitude": 39.740081787109375,
+    "longitude": -104.78263092041016,
+    "bearing": 90,
+    "routeId": "169"
+  },
+  {
+    "latitude": 39.63874816894531,
+    "longitude": -104.8289794921875,
+    "bearing": 181,
+    "routeId": "139"
+  },
+  {
+    "latitude": 39.73979949951172,
+    "longitude": -104.86576843261719,
+    "bearing": 359,
+    "routeId": "105"
+  },
+  {
+    "latitude": 39.74041748046875,
+    "longitude": -105.01046752929688,
+    "bearing": 272,
+    "routeId": "16"
+  },
+  {
+    "latitude": 39.761817932128906,
+    "longitude": -104.91101837158203,
+    "bearing": 90,
+    "routeId": "43"
+  },
+  {
+    "latitude": 39.54724884033203,
+    "longitude": -104.99761962890625,
+    "bearing": 352,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.739967346191406,
+    "longitude": -104.99553680419922,
+    "bearing": 91,
+    "routeId": "16"
+  },
+  {
+    "latitude": 39.74128341674805,
+    "longitude": -104.98621368408203,
+    "bearing": 358,
+    "routeId": "16"
+  },
+  {
+    "latitude": 39.65665054321289,
+    "longitude": -104.99351501464844,
+    "bearing": 0,
+    "routeId": "12"
+  },
+  {
+    "latitude": 39.91398239135742,
+    "longitude": -104.99461364746094,
+    "bearing": 266,
+    "routeId": "12"
+  },
+  {
+    "latitude": 39.745033264160156,
+    "longitude": -104.99441528320312,
+    "bearing": 322,
+    "routeId": "44"
+  },
+  {
+    "latitude": 39.76183319091797,
+    "longitude": -105.13538360595703,
+    "bearing": 93,
+    "routeId": "32"
+  },
+  {
+    "latitude": 39.74034881591797,
+    "longitude": -105.08914947509766,
+    "bearing": 270,
+    "routeId": "16"
+  },
+  {
+    "latitude": 39.74043273925781,
+    "longitude": -105.04100036621094,
+    "bearing": 271,
+    "routeId": "16"
+  },
+  {
+    "latitude": 39.75189971923828,
+    "longitude": -104.99588012695312,
+    "bearing": 313,
+    "routeId": "1"
+  },
+  {
+    "latitude": 39.74245071411133,
+    "longitude": -104.98701477050781,
+    "bearing": 166,
+    "routeId": "15"
+  },
+  {
+    "latitude": 39.66101837158203,
+    "longitude": -104.98770141601562,
+    "bearing": 180,
+    "routeId": "0"
+  },
+  {
+    "latitude": 39.711082458496094,
+    "longitude": -105.03018188476562,
+    "bearing": 91,
+    "routeId": "3"
+  },
+  {
+    "latitude": 39.74886703491211,
+    "longitude": -104.99935150146484,
+    "bearing": 314,
+    "routeId": "9"
+  },
+  {
+    "latitude": 39.74625015258789,
+    "longitude": -104.9906997680664,
+    "bearing": 219,
+    "routeId": "38"
+  },
+  {
+    "latitude": 39.762001037597656,
+    "longitude": -104.94029998779297,
+    "bearing": 265,
+    "routeId": "43"
+  },
+  {
+    "latitude": 39.70705032348633,
+    "longitude": -105.07691955566406,
+    "bearing": 90,
+    "routeId": "3"
+  },
+  {
+    "latitude": 39.76748275756836,
+    "longitude": -104.90229797363281,
+    "bearing": 270,
+    "routeId": "43"
+  },
+  {
+    "latitude": 39.7801513671875,
+    "longitude": -104.97921752929688,
+    "bearing": 192,
+    "routeId": "12"
+  },
+  {
+    "latitude": 39.8310661315918,
+    "longitude": -104.98736572265625,
+    "bearing": 180,
+    "routeId": "8"
+  },
+  {
+    "latitude": 39.76206588745117,
+    "longitude": -105.0118179321289,
+    "bearing": 264,
+    "routeId": "32"
+  },
+  {
+    "latitude": 39.731082916259766,
+    "longitude": -104.94039916992188,
+    "bearing": 270,
+    "routeId": "10"
+  },
+  {
+    "latitude": 39.92210006713867,
+    "longitude": -105.08779907226562,
+    "bearing": 343,
+    "routeId": "120"
+  },
+  {
+    "latitude": 39.85786819458008,
+    "longitude": -105.06352996826172,
+    "bearing": 337,
+    "routeId": "92"
+  },
+  {
+    "latitude": 39.921600341796875,
+    "longitude": -105.06735229492188,
+    "bearing": 85,
+    "routeId": "128"
+  },
+  {
+    "latitude": 39.91413116455078,
+    "longitude": -105.06566619873047,
+    "bearing": 90,
+    "routeId": "120"
+  },
+  {
+    "latitude": 39.7352180480957,
+    "longitude": -104.9832992553711,
+    "bearing": 92,
+    "routeId": "10"
+  },
+  {
+    "latitude": 39.739967346191406,
+    "longitude": -104.9840316772461,
+    "bearing": 92,
+    "routeId": "6"
+  },
+  {
+    "latitude": 39.64998245239258,
+    "longitude": -105.08203125,
+    "bearing": 96,
+    "routeId": "30"
+  },
+  {
+    "latitude": 39.70231628417969,
+    "longitude": -104.99029541015625,
+    "bearing": 170,
+    "routeId": "101H"
+  },
+  {
+    "latitude": 39.75589370727539,
+    "longitude": -105.0027084350586,
+    "bearing": 212.39999389648438,
+    "routeId": "101C"
+  },
+  {
+    "latitude": 39.745487213134766,
+    "longitude": -104.99174499511719,
+    "bearing": 45,
+    "routeId": "101F"
+  },
+  {
+    "latitude": 39.6607551574707,
+    "longitude": -104.92214965820312,
+    "bearing": 342,
+    "routeId": "101F"
+  },
+  {
+    "latitude": 39.54786682128906,
+    "longitude": -104.86982727050781,
+    "bearing": 176.10000610351562,
+    "routeId": "107R"
+  },
+  {
+    "latitude": 39.74375915527344,
+    "longitude": -104.99711608886719,
+    "bearing": 78,
+    "routeId": "101D"
+  },
+  {
+    "latitude": 39.6063346862793,
+    "longitude": -104.89196014404297,
+    "bearing": 336,
+    "routeId": "101E"
+  },
+  {
+    "latitude": 39.758460998535156,
+    "longitude": -104.9734878540039,
+    "bearing": 359,
+    "routeId": "109L"
+  },
+  {
+    "latitude": 39.634010314941406,
+    "longitude": -104.9081039428711,
+    "bearing": 156.60000610351562,
+    "routeId": "101E"
+  },
+  {
+    "latitude": 39.68210983276367,
+    "longitude": -104.82835388183594,
+    "bearing": 0,
+    "routeId": "107R"
+  },
+  {
+    "latitude": 39.68559265136719,
+    "longitude": -104.96554565429688,
+    "bearing": 298,
+    "routeId": "101E"
+  },
+  {
+    "latitude": 39.75495910644531,
+    "longitude": -104.8397216796875,
+    "bearing": 270,
+    "routeId": "107R"
+  },
+  {
+    "latitude": 39.67974090576172,
+    "longitude": -104.93844604492188,
+    "bearing": 275,
+    "routeId": "101H"
+  },
+  {
+    "latitude": 39.5808219909668,
+    "longitude": -105.02471923828125,
+    "bearing": 200.6999969482422,
+    "routeId": "101C"
+  },
+  {
+    "latitude": 39.74962615966797,
+    "longitude": -105.0080795288086,
+    "bearing": 215,
+    "routeId": "103W"
+  },
+  {
+    "latitude": 39.58610534667969,
+    "longitude": -104.88032531738281,
+    "bearing": 155,
+    "routeId": "101E"
+  },
+  {
+    "latitude": 39.64321517944336,
+    "longitude": -104.87735748291016,
+    "bearing": 58,
+    "routeId": "101H"
+  },
+  {
+    "latitude": 39.747432708740234,
+    "longitude": -104.99110412597656,
+    "bearing": 224.8000030517578,
+    "routeId": "101D"
+  },
+  {
+    "latitude": 39.747432708740234,
+    "longitude": -104.99110412597656,
+    "bearing": 224.8000030517578,
+    "routeId": "101H"
+  },
+  {
+    "latitude": 39.65958023071289,
+    "longitude": -104.8412094116211,
+    "bearing": 230,
+    "routeId": "101H"
+  },
+  {
+    "latitude": 39.68211364746094,
+    "longitude": -104.99172973632812,
+    "bearing": 191.3000030517578,
+    "routeId": "101D"
+  },
+  {
+    "latitude": 39.73666000366211,
+    "longitude": -105.07180786132812,
+    "bearing": 269.70001220703125,
+    "routeId": "103W"
+  },
+  {
+    "latitude": 39.747432708740234,
+    "longitude": -104.99110412597656,
+    "bearing": 224.8000030517578,
+    "routeId": "109L"
+  },
+  {
+    "latitude": 39.72511672973633,
+    "longitude": -105.15081787109375,
+    "bearing": 84.69999694824219,
+    "routeId": "103W"
+  },
+  {
+    "latitude": 39.54786682128906,
+    "longitude": -104.86982727050781,
+    "bearing": 176.10000610351562,
+    "routeId": "101F"
+  },
+  {
+    "latitude": 39.74114227294922,
+    "longitude": -105.01046752929688,
+    "bearing": 337,
+    "routeId": "103W"
+  },
+  {
+    "latitude": 39.58147430419922,
+    "longitude": -105.02433013916016,
+    "bearing": 22,
+    "routeId": "101D"
+  },
+  {
+    "latitude": 39.5536003112793,
+    "longitude": -104.87116241455078,
+    "bearing": 169.8000030517578,
+    "routeId": "101E"
+  },
+  {
+    "latitude": 39.743919372558594,
+    "longitude": -104.99677276611328,
+    "bearing": 248,
+    "routeId": "101F"
+  },
+  {
+    "latitude": 39.75297546386719,
+    "longitude": -104.98025512695312,
+    "bearing": 44.79999923706055,
+    "routeId": "109L"
+  },
+  {
+    "latitude": 39.74336624145508,
+    "longitude": -105.01244354248047,
+    "bearing": 115,
+    "routeId": "101E"
+  },
+  {
+    "latitude": 39.68210983276367,
+    "longitude": -104.82835388183594,
+    "bearing": 0,
+    "routeId": "101H"
+  },
+  {
+    "latitude": 39.631797790527344,
+    "longitude": -104.90681457519531,
+    "bearing": 348,
+    "routeId": "107R"
+  },
+  {
+    "latitude": 39.701202392578125,
+    "longitude": -104.9900131225586,
+    "bearing": 350,
+    "routeId": "101D"
+  },
+  {
+    "latitude": 39.6761474609375,
+    "longitude": -104.93235778808594,
+    "bearing": 145,
+    "routeId": "101F"
+  },
+  {
+    "latitude": 39.56873321533203,
+    "longitude": -104.87336730957031,
+    "bearing": 178,
+    "routeId": "107R"
+  },
+  {
+    "latitude": 39.7207145690918,
+    "longitude": -105.00030517578125,
+    "bearing": 333.70001220703125,
+    "routeId": "101D"
+  },
+  {
+    "latitude": 39.73657989501953,
+    "longitude": -105.08223724365234,
+    "bearing": 89.69999694824219,
+    "routeId": "103W"
+  },
+  {
+    "latitude": 39.64699172973633,
+    "longitude": -104.8671646118164,
+    "bearing": 230,
+    "routeId": "107R"
+  },
+  {
+    "latitude": 39.55275344848633,
+    "longitude": -104.87101745605469,
+    "bearing": 354.5,
+    "routeId": "101F"
+  },
+  {
+    "latitude": 39.73851013183594,
+    "longitude": -105.00631713867188,
+    "bearing": 356,
+    "routeId": "101C"
+  },
+  {
+    "latitude": 39.61762237548828,
+    "longitude": -105.01226043701172,
+    "bearing": 15,
+    "routeId": "101C"
+  },
+  {
+    "latitude": 39.72511672973633,
+    "longitude": -105.15081787109375,
+    "bearing": 269.79998779296875,
+    "routeId": "103W"
+  },
+  {
+    "latitude": 39.74850845336914,
+    "longitude": -104.82926940917969,
+    "bearing": 172,
+    "routeId": "107R"
+  },
+  {
+    "latitude": 39.68782043457031,
+    "longitude": -104.99014282226562,
+    "bearing": 192.10000610351562,
+    "routeId": "101C"
+  },
+  {
+    "latitude": 39.70811080932617,
+    "longitude": -104.819091796875,
+    "bearing": 180,
+    "routeId": "107R"
+  },
+  {
+    "latitude": 39.76740264892578,
+    "longitude": -104.8511962890625,
+    "bearing": 95,
+    "routeId": "107R"
+  },
+  {
+    "latitude": 39.73849868774414,
+    "longitude": -105.00626373291016,
+    "bearing": 4,
+    "routeId": "101H"
+  },
+  {
+    "latitude": 39.72615432739258,
+    "longitude": -105.20064544677734,
+    "bearing": 300,
+    "routeId": "103W"
+  },
+  {
+    "latitude": 39.69824981689453,
+    "longitude": -104.90258026123047,
+    "bearing": 296,
+    "routeId": "83L"
+  },
+  {
+    "latitude": 39.728965759277344,
+    "longitude": -104.99044799804688,
+    "bearing": 258,
+    "routeId": "83L"
+  },
+  {
+    "latitude": 39.71141815185547,
+    "longitude": -104.94153594970703,
+    "bearing": 91,
+    "routeId": "83L"
+  },
+  {
+    "latitude": 39.74026870727539,
+    "longitude": -104.91670227050781,
+    "bearing": 266,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.65713119506836,
+    "longitude": -104.84766387939453,
+    "bearing": 101,
+    "routeId": "83L"
+  },
+  {
+    "latitude": 39.71175003051758,
+    "longitude": -104.94706726074219,
+    "bearing": 296,
+    "routeId": "83D"
+  },
+  {
+    "latitude": 39.74024963378906,
+    "longitude": -104.85157012939453,
+    "bearing": 271,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.74741744995117,
+    "longitude": -104.99275207519531,
+    "bearing": 135,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.7403678894043,
+    "longitude": -104.8245849609375,
+    "bearing": 289,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.74005126953125,
+    "longitude": -104.8362808227539,
+    "bearing": 91,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.740718841552734,
+    "longitude": -104.98729705810547,
+    "bearing": 244,
+    "routeId": "83L"
+  },
+  {
+    "latitude": 39.83513259887695,
+    "longitude": -104.76713562011719,
+    "bearing": 276,
+    "routeId": "169L"
+  },
+  {
+    "latitude": 39.73569869995117,
+    "longitude": -105.02445220947266,
+    "bearing": 270,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.696998596191406,
+    "longitude": -104.92168426513672,
+    "bearing": 17,
+    "routeId": "11"
+  },
+  {
+    "latitude": 39.68476867675781,
+    "longitude": -105.02493286132812,
+    "bearing": 358,
+    "routeId": "30L"
+  },
+  {
+    "latitude": 39.881248474121094,
+    "longitude": -104.98743438720703,
+    "bearing": 0,
+    "routeId": "120X"
+  },
+  {
+    "latitude": 39.74741744995117,
+    "longitude": -104.89769744873047,
+    "bearing": 86,
+    "routeId": "20"
+  },
+  {
+    "latitude": 39.8519172668457,
+    "longitude": -104.9863510131836,
+    "bearing": 170,
+    "routeId": "120X"
+  },
+  {
+    "latitude": 39.702518463134766,
+    "longitude": -104.91273498535156,
+    "bearing": 1,
+    "routeId": "65"
+  },
+  {
+    "latitude": 39.74660110473633,
+    "longitude": -105.00695037841797,
+    "bearing": 50,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.69654846191406,
+    "longitude": -104.94940185546875,
+    "bearing": 89,
+    "routeId": "11"
+  },
+  {
+    "latitude": 39.748348236083984,
+    "longitude": -104.99134826660156,
+    "bearing": 318,
+    "routeId": "122X"
+  },
+  {
+    "latitude": 39.701683044433594,
+    "longitude": -104.9127197265625,
+    "bearing": 359,
+    "routeId": "65"
+  },
+  {
+    "latitude": 39.69858169555664,
+    "longitude": -104.90398406982422,
+    "bearing": 116,
+    "routeId": "83D"
+  },
+  {
+    "latitude": 39.74078369140625,
+    "longitude": -104.98664855957031,
+    "bearing": 264,
+    "routeId": "83D"
+  },
+  {
+    "latitude": 39.74024963378906,
+    "longitude": -104.89347076416016,
+    "bearing": 270,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.71664810180664,
+    "longitude": -104.81954956054688,
+    "bearing": 181,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.74723434448242,
+    "longitude": -104.99250030517578,
+    "bearing": 140,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.70684814453125,
+    "longitude": -104.7911148071289,
+    "bearing": 179,
+    "routeId": "169L"
+  },
+  {
+    "latitude": 39.72556686401367,
+    "longitude": -104.81776428222656,
+    "bearing": 90,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.73998260498047,
+    "longitude": -104.97154998779297,
+    "bearing": 89,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.66043472290039,
+    "longitude": -104.86426544189453,
+    "bearing": 269,
+    "routeId": "83D"
+  },
+  {
+    "latitude": 39.70836639404297,
+    "longitude": -104.81843566894531,
+    "bearing": 280,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.74024963378906,
+    "longitude": -104.9402847290039,
+    "bearing": 271,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.7401008605957,
+    "longitude": -104.98321533203125,
+    "bearing": 270,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.74006652832031,
+    "longitude": -104.91169738769531,
+    "bearing": 81,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.740081787109375,
+    "longitude": -104.87236785888672,
+    "bearing": 90,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.74443435668945,
+    "longitude": -104.9935531616211,
+    "bearing": 305,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.7401008605957,
+    "longitude": -104.87954711914062,
+    "bearing": 90,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.749168395996094,
+    "longitude": -105.00116729736328,
+    "bearing": 226,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.74003219604492,
+    "longitude": -104.92521667480469,
+    "bearing": 91,
+    "routeId": "15L"
+  },
+  {
+    "latitude": 39.74013137817383,
+    "longitude": -104.95541381835938,
+    "bearing": 90,
+    "routeId": "15L"
+  }
+]
