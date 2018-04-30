@@ -1,6 +1,6 @@
 var express = require('express');
 var bodyParser = require('body-parser');
-var rtParser = require('./GTFSRTHelper');
+var gtfsrtHelper = require('./GTFSRTHelper');
 
 var app = express();
 
@@ -13,4 +13,9 @@ app.listen(process.env.PORT || 3000, function () {
   console.log('Express server is up on port 3000');
 });
 
-rtParser.test();
+
+app.get('/vehiclesPosition', function (req, res) {
+  gtfsrtHelper.getVehiclePosition(function (vehicles) {
+    res.send(vehicles);
+  });
+});
