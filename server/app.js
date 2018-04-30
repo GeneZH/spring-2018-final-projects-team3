@@ -1,8 +1,9 @@
-var express = require('express');
-var bodyParser = require('body-parser');
-var gtfsrtHelper = require('./GTFSRTHelper');
+const express = require('express');
+const bodyParser = require('body-parser');
+const gtfsrtHelper = require('./GTFSRTHelper');
+const dataHelper = require('./DataHelper');
 
-var app = express();
+let app = express();
 
 app.use(express.static('public'));
 app.use(bodyParser.json());
@@ -14,8 +15,19 @@ app.listen(process.env.PORT || 3000, function () {
 });
 
 
-app.get('/vehiclesPosition', function (req, res) {
+app.get('/vehiclePosition', function (req, res) {
   gtfsrtHelper.getVehiclePosition(function (vehicles) {
     res.send(vehicles);
   });
+});
+
+app.get('/routeStops', function (req, res) {
+  if (req.query.routeId) {
+    dataHelper.getRoutesStopById(req.query.routeId,function(stops){
+      res.send(stops);
+    });
+  }
+  else{
+    res.status(400).send('Require parameter: routeId');
+  }
 });

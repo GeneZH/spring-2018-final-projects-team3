@@ -21,14 +21,12 @@ exports.getVehiclePosition = function (callback) {
         try {
           let decodedMessage = TripUpdate.decode(response.data);
           let objects = TripUpdate.toObject(decodedMessage);
-          console.log(objects.entity[0]);
-          let veh =[];
-          objects.entity.forEach(function(ent){
-            if(!ent.vehicle.trip) return;
-            ent.vehicle.position.routeId= ent.vehicle.trip.routeId;
+          let veh = [];
+          objects.entity.forEach(function (ent) {
+            if (!ent.vehicle.trip) return;
+            ent.vehicle.position.routeId = ent.vehicle.trip.routeId;
             veh.push(ent.vehicle.position);
           });
-          //console.log(veh);
           callback(veh);
         } catch (e) {
           throw e;
