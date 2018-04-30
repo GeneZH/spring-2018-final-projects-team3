@@ -15,13 +15,26 @@ function initMap() {
         requestDirections(start[i], end[i]);
     }
 
-    //draw realtime bus
-    bus_cord = [{lat:  39.98578,lng:   -105.23454}];
-    displayBus(bus_cord[0])
+    function requestDirections(start, end) {
+      directionsService.route({
+        origin: start,
+        destination: end,
+        travelMode: 'TRANSIT',
+        // waypoints: wp,
+        transitOptions: {
+          modes: ['BUS'],
+        }
+      }, function(result, status) {
+        renderDirections(result, status);
+      });
+    }
 
     function renderDirections(result, status) {
       var directionsRenderer = new google.maps.DirectionsRenderer();
       directionsRenderer.setMap(map);
+      directionsRenderer.setOptions( {
+          polylineOptions:{ strokeColor:getRandomColor(), strokeWeight:5},
+          suppressMarkers:true });
       if (status == 'OK') {
          directionsRenderer.setDirections(result);
       }
@@ -77,22 +90,15 @@ function initMap() {
         }
         ];
 
-    function requestDirections(start, end) {
-      directionsService.route({
-        origin: start,
-        destination: end,
-        travelMode: 'TRANSIT',
-        waypoints: wp,
-        transitOptions: {
-          modes: ['BUS'],
-        }
-      }, function(result, status) {
-        renderDirections(result, status);
-      });
-    }
+    displayStops(wp);
+
+    //draw realtime bus
+    bus_cord = [{lat:  39.98578,lng:   -105.23454}];
+    displayBus(bus_cord[0])
+
 
     function displayBus(bus_cord) {
-        icon = 'bus.png';
+        icon = 'bus_red.png';
         features = [{
             position: bus_cord,
             type: 'info'
@@ -106,4 +112,29 @@ function initMap() {
           });
         });
     }
+
+    function displayStops(stops) {
+        icon = 'bus_stop.png';
+        features = [{
+            position: bus_cord,
+            type: 'info'
+        }];
+        // Create markers.
+        stops.forEach(function(stop) {
+          var marker = new google.maps.Marker({
+            position: stop.location,
+            icon: icon,
+            map: map
+          });
+        });
+    }
+}
+
+function getRandomColor() {
+  var letters = '0123456789ABCDEF';
+  var color = '#D9';
+  for (var i = 0; i < 6; i++) {
+    color += letters[Math.floor(Math.random() * 16)];
+  }
+  return color;
 }
