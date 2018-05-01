@@ -1,8 +1,6 @@
 const axios = require('axios');
 const protobuf = require("protobufjs");
 
-//var protobuf = require('protocol-buffers');
-
 exports.getVehiclePosition = function (callback) {
   const config = {
     url: 'http://www.rtd-denver.com/google_sync/VehiclePosition.pb',
@@ -14,8 +12,6 @@ exports.getVehiclePosition = function (callback) {
   };
   axios(config)
     .then(function (response, body) {
-      //console.log(response);
-
       protobuf.load("./GTFS-realtime.proto", function (err, root) {
         let TripUpdate = root.lookupType("transit_realtime.FeedMessage");
         try {
