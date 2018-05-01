@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Project 3</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="finalproject.css"></link>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script 
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDu1gZ0iuhX8XWlJQJL6q8HQ_GsF9YiFcE" >
+    </script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">RTD BUS</a>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+        </div>
+      </div>
+    </nav>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-10">
+                <div id="map" style="margin-top: 30px; margin-bottom: 10px;"></div>
+            </div>
+            <div class="col-md-2">
+                <ul id = "routes", class="list-group" style="margin-top: 30px; margin-bottom: 10px; font-size:12px;">
+                 
+                  
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+
+  
+    <script>
+
+      var map;
+
+      function initMap(){
+        var denver_cord = {lat: 39.754136, lng: -105.001440};
+        map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 10,
+            center: denver_cord}
+        );
+
+      }
+      /*
+          function requestDirections(start, end) {
+                  console.log("requestDirections sent");
+                          directionsService.route({
+                            origin: start,
+                            destination: end,
+                            travelMode: 'TRANSIT',
+                            // waypoints: wp,
+                            transitOptions: {
+                              modes: ['BUS'],
+                            }
+                          }, function(result, status) {
+                            renderDirections(result, status);
+                          });
+                        }
+
+         */
+
+        function renderDirections(result, status) {
+          //console.log("render");
+          var directionsRenderer = new google.maps.DirectionsRenderer();
+          directionsRenderer.setMap(map);
+          directionsRenderer.setOptions( {
+              polylineOptions:{ strokeColor:getRandomColor(), strokeWeight:5},
+              suppressMarkers:true });
+          
+          if (status == 'OK') {
+             directionsRenderer.setDirections(result);
+          }
+          else
+            console.log("fail to send setDirection");
+        }
+
+
+
+        function getRandomColor() {
+          var letters = '0123456789ABCDEF';
+          var color = '#D9';
+          for (var i = 0; i < 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)];
+          }
+          return color;
+        }
+
+
+       function show_route(route){
+            d3.csv("./data/stops/" + route + ".csv",function(error,data){ 
+
+                    
+                    var start = {lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lng)};
+                    var end = {lat: parseFloat(data[1].lat), lng: parseFloat(data[1].lng)};
+                    console.log(start);
+                    console.log(end);
+
+                      //draw bus routes
+                    var directionsService = new google.maps.DirectionsService();
+
+                        
+                    directionsService.route({
+                    origin: start,
+                    destination: end,
+                    travelMode: 'TRANSIT',
+                    // waypoints: wp,
+                    transitOptions: {
+                      modes: ['BUS'],
+                    }
+                  }, function(result, status) {
+                    console.log(status);
+                    //console.log("request sent");
+                    renderDirections(result, status);
+                  });
+
+                        //data.forEach(function(d) {
+                        //console.log(d['lat'], d['lng']);
+            });
+      }
+
+
+
+      initMap();
+
+
+
+      d3.csv("./data/routes.csv", function(err, data) {
+          if(err)
+              console.log(err);
+          // <li class="list-group-item active">204</li>
+          var ul = document.getElementById("routes"); 
+          data.forEach(function(d) {
+          console.log(d['FF2']);
+          
+          var li = document.createElement("li");
+          li.appendChild(document.createTextNode(d['FF2']));
+
+          li.setAttribute("id", d['FF2']); //class="list-group-item"
+          li.setAttribute("class", "list-group-item"); //class="list-group-item"
+          li.setAttribute("onclick", "show_route(\"" + d['FF2'] + "\")");
+          ul.appendChild(li);       
+              
+        });
+        
+      });
+
+           
+
+        /*
+
+        d3.csv("./data/routes.csv",function(error,csvdata){ 
+            if(error){ 
+                console.log(error); 
+             } 
+                console.log(csvdata); 
+               
+        });
+
+
+                 var ul = document.getElementById("routes"); 
+                for (i = 0; i < cars.length; i++) { 
+                     var li = document.createElement("li");
+                     li.appendChild(document.createTextNode("Four"));
+                     li.setAttribute("class", "ist-group-item"); //class="list-group-item"
+                     ul.appendChild(li);       
+                }
+        */
+           
+                                    
+
+    </script>
+
+
+
+    <footer class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <center class="navbar-brand">Team 3:</center>
+        <center class="navbar-brand">Chih-Wei Lin</center>
+        <center class="navbar-brand">Yijun Zhang</center>
+        <center class="navbar-brand">Yuhan Lin</center>
+    </footer>
+</body>
+
+</html>
