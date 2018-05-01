@@ -14,5 +14,4 @@ exports.getRoutesStopById = function (id, callback) {
       callback(stops);
     });
   stream.pipe(csvStream);
-
 };
