@@ -66,10 +66,11 @@
                         }
 
          */
-
+         var directionsRenderer = new google.maps.DirectionsRenderer();
+         
         function renderDirections(result, status) {
           //console.log("render");
-          var directionsRenderer = new google.maps.DirectionsRenderer();
+          
           directionsRenderer.setMap(map);
           directionsRenderer.setOptions( {
               polylineOptions:{ strokeColor:getRandomColor(), strokeWeight:5},
@@ -94,19 +95,23 @@
         }
 
 
+        
+
+
        function show_route(route){
             d3.csv("./data/stops/" + route + ".csv",function(error,data){ 
 
                     
                     var start = {lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lng)};
-                    var end = {lat: parseFloat(data[1].lat), lng: parseFloat(data[1].lng)};
+                    var end = {lat: parseFloat(data[data.length-1].lat), lng: parseFloat(data[data.length-1].lng)};
+
                     console.log(start);
                     console.log(end);
 
                       //draw bus routes
-                    var directionsService = new google.maps.DirectionsService();
+                    //var directionsService = new google.maps.DirectionsService();
 
-                        
+                    var directionsService = new google.maps.DirectionsService();
                     directionsService.route({
                     origin: start,
                     destination: end,
