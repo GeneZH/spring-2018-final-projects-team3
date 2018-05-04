@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="finalproject.css"></link>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
-    <script 
+    <script
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDu1gZ0iuhX8XWlJQJL6q8HQ_GsF9YiFcE" >
     </script>
 </head>
@@ -17,7 +17,7 @@
       <a class="navbar-brand" href="#">RTD BUS HELPER</a>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          
+
         </div>
       </div>
       <div id = "hm" ><a style="color: yellow;" href="./heatmap.html">Stops Heatmap</a></div>
@@ -30,24 +30,24 @@
             <div class="col-md-10">
                 <div id="map" style="margin-top: 30px; margin-bottom: 10px;"></div>
             </div>
-          
-   
-              
+
+
+
             <div class="col-md-2" id = "route_menu" style = "position: relative; margin-top: 30px; margin-bottom: 10px">
-              
-                
+
+
                 <ul id = "routes", class="list-group" style=" font-size:12px;">
-                 
-                  
+
+
                 </ul>
-               
+
             </div>
-          
+
         </div>
     </div>
-    
 
-  
+
+
     <script>
 
       var map;
@@ -81,12 +81,12 @@
 
         function renderDirections(result, status) {
           //console.log("render");
-          
+
           directionsRenderer.setMap(map);
           directionsRenderer.setOptions( {
-              polylineOptions:{ strokeColor:getRandomColor(), strokeWeight:5},
+              // polylineOptions:{ strokeColor:getRandomColor(), strokeWeight:5},
               suppressMarkers:true });
-          
+
           if (status == 'OK') {
              directionsRenderer.setDirections(result);
           }
@@ -106,13 +106,15 @@
         }
 
 
-        
+
 
 
        function show_route(route){
-            d3.csv("./data/stops/" + route + ".csv",function(error,data){ 
+           $('ul li.active').removeClass('active');
+           $(`#${route}`).addClass('active');
+            d3.csv("./data/stops/" + route + ".csv",function(error,data){
 
-                    
+
                     var start = {lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lng)};
                     var end = {lat: parseFloat(data[data.length-1].lat), lng: parseFloat(data[data.length-1].lng)};
 
@@ -152,54 +154,54 @@
           if(err)
               console.log(err);
           // <li class="list-group-item active">204</li>
-          var ul = document.getElementById("routes"); 
+          var ul = document.getElementById("routes");
           data.forEach(function(d) {
-          console.log(d['FF2']);
-          
-          var li = document.createElement("li");
-          li.appendChild(document.createTextNode(d['FF2']));
+          console.log(d['routes']);
 
-          li.setAttribute("id", d['FF2']); //class="list-group-item"
+          var li = document.createElement("li");
+          li.appendChild(document.createTextNode(d['routes']));
+
+          li.setAttribute("id", d['routes']); //class="list-group-item"
           li.setAttribute("class", "list-group-item"); //class="list-group-item"
-          li.setAttribute("onclick", "show_route(\"" + d['FF2'] + "\")");
-          ul.appendChild(li);       
-              
+          li.setAttribute("onclick", "show_route(\"" + d['routes'] + "\")");
+          ul.appendChild(li);
+
         });
-        
+
       });
 
-           
+
 
         /*
 
-        d3.csv("./data/routes.csv",function(error,csvdata){ 
-            if(error){ 
-                console.log(error); 
-             } 
-                console.log(csvdata); 
-               
+        d3.csv("./data/routes.csv",function(error,csvdata){
+            if(error){
+                console.log(error);
+             }
+                console.log(csvdata);
+
         });
 
 
-                 var ul = document.getElementById("routes"); 
-                for (i = 0; i < cars.length; i++) { 
+                 var ul = document.getElementById("routes");
+                for (i = 0; i < cars.length; i++) {
                      var li = document.createElement("li");
                      li.appendChild(document.createTextNode("Four"));
                      li.setAttribute("class", "ist-group-item"); //class="list-group-item"
-                     ul.appendChild(li);       
+                     ul.appendChild(li);
                 }
         */
 
-    function fixHeight()  
-    {  
-        var div = document.getElementById("route_menu");  
-        //div.style.width="40%";  
-        div.style.height="580px"; 
-        div.style.overflow="auto";  
-    }  
-    window.onload = fixHeight; 
-           
-                                    
+    function fixHeight()
+    {
+        var div = document.getElementById("route_menu");
+        //div.style.width="40%";
+        div.style.height="580px";
+        div.style.overflow="auto";
+    }
+    window.onload = fixHeight;
+
+
 
     </script>
 
