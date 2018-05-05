@@ -191,7 +191,10 @@
           busPos.push(d);
         }
       });
-      icon = 'bus_red.png';
+      icon = {
+        url: 'bus.png',
+        scaledSize: new google.maps.Size(24, 24)
+      };
       features = [];
       busPos.forEach(function (d) {
         bus_cord = {
