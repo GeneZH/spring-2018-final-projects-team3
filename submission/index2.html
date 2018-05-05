@@ -178,7 +178,7 @@
         var markers = [];
         // TODO: better way to get vehicle position
         function displayBus(route) {
-            var jqxhr = $.getJSON("../server/sampleData/vehiclePosition.json", function(data) {
+            var jqxhr = $.getJSON("../sampleData/vehiclePosition.json", function(data) {
                     console.log("load file successfully");
                     busPos = [];
                     data.forEach(function(d) {
@@ -253,13 +253,26 @@
             //div.style.width="40%";
             div.style.height = "580px";
             div.style.overflow = "auto";
+            display_ct();
         }
         window.onload = fixHeight;
     </script>
 
     <script>
-        var d = new Date();
-        document.getElementById("date").innerHTML = d;
+
+        function display_c(){
+           var refresh=1000; // Refresh rate in milli seconds
+           mytime=setTimeout('display_ct()',refresh)
+        }
+
+        function display_ct() {
+          var strcount
+          var x = new Date()
+          document.getElementById('date').innerHTML = x;
+          tt = display_c();
+         }
+
+        
     </script>
 
 
