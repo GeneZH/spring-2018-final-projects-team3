@@ -19,7 +19,7 @@
 
         </div>
     </div>
-    <div id="busMap"><a style="color: yellow; margin-right: 10px;" href="./buscluster.html">Bus Map</a></div>
+    <div id="busMap"><a style="color: DarkOrange ; margin-right: 10px;" href="./buscluster.html">Bus Map</a></div>
     <div id="hm"><a style="color: yellow;" href="./heatmap.html">Stops Heatmap</a></div>
     <span><p style="width: 10px"></p></span>
     <div id="date" style="color: white;"></div>
@@ -111,11 +111,11 @@
       //
       var sample_rate = Math.ceil(data.length/23);
       var wp = [];
-      for (i = sample_rate; i < data.length - 1; i += sample_rate) { 
-            
+      for (i = sample_rate; i < data.length - 1; i += sample_rate) {
+
              wp.push(
                 {
-                    location: { lat: parseFloat(data[i].lat), lng: parseFloat(data[i].lng)}, 
+                    location: { lat: parseFloat(data[i].lat), lng: parseFloat(data[i].lng)},
                     stopover: true
                 }
              );
@@ -136,7 +136,7 @@
         destination: end,
         travelMode: 'DRIVING',
         waypoints: wp
-        
+
       }, function (result, status) {
         console.log(status);
         //console.log("request sent");
@@ -258,7 +258,7 @@
         document.getElementById('date').innerHTML = x;
         tt=display_c();
     }
-  
+
 </script>
 
 
