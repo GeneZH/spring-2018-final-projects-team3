@@ -17,6 +17,7 @@ app.listen(process.env.PORT || 3000, function () {
 
 
 app.get('/vehiclePosition', function (req, res) {
+  //console.log('get vehicle position');
   gtfsrtHelper.getVehiclePosition(function (vehicles) {
     res.send(vehicles);
   });

@@ -108,7 +108,6 @@
         lng: parseFloat(data[data.length - 1].lng)
       };
 
-
       //
       var sample_rate = Math.ceil(data.length/23);
       var wp = [];
@@ -126,6 +125,7 @@
 
 
       //
+
 
 
       //draw bus routes
@@ -170,7 +170,7 @@
   var markers = [];
   // TODO: better way to get vehicle position
   function displayBus(route) {
-    var jqxhr = $.getJSON("./sampleData/vehiclePosition.json", function (data) {
+    var jqxhr = $.getJSON("/vehiclePosition", function (data) {
       console.log("load file successfully");
       busPos = [];
       data.forEach(function (d) {
@@ -181,7 +181,10 @@
           busPos.push(d);
         }
       });
-      icon = 'bus_red.png';
+      icon = {
+        url: 'bus.png',
+        scaledSize: new google.maps.Size(24, 24)
+      };
       features = [];
       busPos.forEach(function (d) {
         bus_cord = {
