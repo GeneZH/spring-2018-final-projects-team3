@@ -47,7 +47,6 @@
 <script type="text/javascript" src="./sampleData/vehiclePosition.json"></script>
 <script>
   var map;
-
   function initMap() {
     var denver_cord = {
       lat: 39.754136,
@@ -57,9 +56,7 @@
       zoom: 10,
       center: denver_cord
     });
-
   }
-
   /*
       function requestDirections(start, end) {
               console.log("requestDirections sent");
@@ -75,26 +72,20 @@
                         renderDirections(result, status);
                       });
                     }
-
      */
   var directionsRenderer = new google.maps.DirectionsRenderer();
-
   function renderDirections(result, status) {
     //console.log("render");
-
     directionsRenderer.setMap(map);
     directionsRenderer.setOptions({
       // polylineOptions:{ strokeColor:getRandomColor(), strokeWeight:5},
       suppressMarkers: true
     });
-
     if (status == 'OK') {
       directionsRenderer.setDirections(result);
     } else
       console.log("fail to send setDirection");
   }
-
-
   function getRandomColor() {
     var letters = '23456789ABCDE';
     var color = '#D9';
@@ -103,8 +94,6 @@
     }
     return color;
   }
-
-
   function show_route(route) {
     $('ul li.active').removeClass('active');
     $(`#${route}`).addClass('active');
@@ -119,110 +108,66 @@
         lng: parseFloat(data[data.length - 1].lng)
       };
 
-      console.log(start);
-      console.log(end);
+
+      //
+      var sample_rate = Math.ceil(data.length/23);
+      var wp = [];
+      for (i = sample_rate; i < data.length - 1; i += sample_rate) { 
+            
+             wp.push(
+                {
+                    location: { lat: parseFloat(data[i].lat), lng: parseFloat(data[i].lng)}, 
+                    stopover: true
+                }
+             );
+        }
+
+
+
+
+      //
+
 
       //draw bus routes
       //var directionsService = new google.maps.DirectionsService();
-
       var directionsService = new google.maps.DirectionsService();
       directionsService.route({
         origin: start,
         destination: end,
-        travelMode: 'TRANSIT',
-        // waypoints: wp,
-        transitOptions: {
-          modes: ['BUS'],
-        }
+        travelMode: 'DRIVING',
+        waypoints: wp
+        
       }, function (result, status) {
         console.log(status);
         //console.log("request sent");
         renderDirections(result, status);
       });
-
       //data.forEach(function(d) {
       //console.log(d['lat'], d['lng']);
     });
   }
-
-
   initMap();
-
-
   d3.csv("./data/routes.csv", function (err, data) {
     if (err)
       console.log(err);
     // <li class="list-group-item active">204</li>
     var ul = document.getElementById("routes");
     console.log(data);
-
     data.sort(function (a, b) {
       return d3.ascending(a.routes, b.routes);
     });
     console.log(data);
-
     data.forEach(function (d) {
       console.log(d['routes']);
-
       var li = document.createElement("li");
       li.appendChild(document.createTextNode(d['routes']));
-
       li.setAttribute("id", d['routes']); //class="list-group-item"
       li.setAttribute("class", "list-group-item"); //class="list-group-item"
       li.setAttribute("onclick", "show_route(\"" + d['routes'] + "\")");
       ul.appendChild(li);
-
     });
-
-<<<<<<< HEAD
-        var markers = [];
-        // TODO: better way to get vehicle position
-        function displayBus(route) {
-
-            var jqxhr = $.getJSON("./sampleData/vehiclePosition.json", function(data) {
-                    console.log("load file successfully");
-                    busPos = [];
-                    data.forEach(function(d) {
-                        if (route === d.routeId) {
-                            console.log(d.latitude);
-                            console.log(d.longitude);
-                            console.log(d.routeId);
-                            busPos.push(d);
-                        }
-                    });
-                    icon = 'bus_red.png';
-                    features = [];
-                    busPos.forEach(function(d) {
-                        bus_cord = {
-                            lat: d.latitude,
-                            lng: d.longitude
-                        };
-                        features.push({
-                            position: bus_cord,
-                            type: 'info'
-                        });
-                    });
-                    // Create markers.
-                    deleteMarkers();
-                    features.forEach(function(feature) {
-                        var marker = new google.maps.Marker({
-                            position: feature.position,
-                            icon: icon,
-                            map: map
-                        });
-                        markers.push(marker);
-                    });
-                })
-                .fail(function() {
-                    console.log("cannot load json file");
-                });
-        }
-=======
   });
->>>>>>> cd5bc6b181dc0180f00d4a48fffa039ec7c89ce3
-
   var markers = [];
-
   // TODO: better way to get vehicle position
   function displayBus(route) {
     var jqxhr = $.getJSON("./sampleData/vehiclePosition.json", function (data) {
@@ -247,53 +192,6 @@
           position: bus_cord,
           type: 'info'
         });
-<<<<<<< HEAD
-
-
-                 var ul = document.getElementById("routes");
-                for (i = 0; i < cars.length; i++) {
-                     var li = document.createElement("li");
-                     li.appendChild(document.createTextNode("Four"));
-                     li.setAttribute("class", "ist-group-item"); //class="list-group-item"
-                     ul.appendChild(li);
-                }
-        */
-
-        function fixHeight() {
-            var div = document.getElementById("route_menu");
-            //div.style.width="40%";
-            div.style.height = "580px";
-            div.style.overflow = "auto";
-            display_ct();
-        }
-        window.onload = fixHeight;
-    </script>
-
-    <script>
-
-        function display_c(){
-           var refresh=1000; // Refresh rate in milli seconds
-           mytime=setTimeout('display_ct()',refresh)
-        }
-
-        function display_ct() {
-          var strcount
-          var x = new Date()
-          document.getElementById('date').innerHTML = x;
-          tt = display_c();
-         }
-
-        
-    </script>
-
-
-    <footer class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <center class="navbar-brand">Team 3:</center>
-        <center class="navbar-brand">Chih-Wei Lin</center>
-        <center class="navbar-brand">Yijun Zhang</center>
-        <center class="navbar-brand">Yuhan Lin</center>
-    </footer>
-=======
       });
       // Create markers.
       deleteMarkers();
@@ -310,29 +208,22 @@
         console.log("cannot load json file");
       });
   }
-
   function setMapOnAll(map) {
     for (var i = 0; i < markers.length; i++) {
       markers[i].setMap(map);
     }
   }
-
   function deleteMarkers() {
     setMapOnAll(null);
     markers = [];
   }
-
   /*
-
   d3.csv("./data/routes.csv",function(error,csvdata){
       if(error){
           console.log(error);
        }
           console.log(csvdata);
-
   });
-
-
            var ul = document.getElementById("routes");
           for (i = 0; i < cars.length; i++) {
                var li = document.createElement("li");
@@ -341,20 +232,30 @@
                ul.appendChild(li);
           }
   */
-
   function fixHeight() {
     var div = document.getElementById("route_menu");
     //div.style.width="40%";
     div.style.height = "580px";
     div.style.overflow = "auto";
+    display_ct();
   }
-
   window.onload = fixHeight;
 </script>
 
 <script>
-  var d = new Date();
-  document.getElementById("date").innerHTML = d;
+
+    function display_c(){
+        var refresh=1000; // Refresh rate in milli seconds
+        mytime=setTimeout('display_ct()',refresh)
+    }
+
+    function display_ct() {
+        var strcount
+        var x = new Date()
+        document.getElementById('date').innerHTML = x;
+        tt=display_c();
+    }
+  
 </script>
 
 
@@ -364,7 +265,6 @@
     <center class="navbar-brand">Yijun Zhang</center>
     <center class="navbar-brand">Yuhan Lin</center>
 </footer>
->>>>>>> cd5bc6b181dc0180f00d4a48fffa039ec7c89ce3
 </body>
 
 </html>
