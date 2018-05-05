@@ -13,14 +13,21 @@ On Mac OS:
 ```bash
 brew install node
 ```
-
-**2. Run the node.js express server**
+**2. Install dependencies**
 
 In the project submission directory:
+
 ```bash
 npm install
+```
+
+**3. Run the node.js express server**
+
+In the project submission directory:
+
+```bash
 npm start
 ```
 
-**3. Open [localhost:3000](localhost:3000) in browser**
+**4. Open [localhost:3000](http://localhost:3000) in browser**
 
