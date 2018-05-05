@@ -119,6 +119,15 @@
         lng: parseFloat(data[data.length - 1].lng)
       };
 
+      var wp = [];
+      for(var i = 1; i < data.length -1; i++) {
+          var stop = {
+              lat: parseFloat(data[i].lat),
+              lng: parseFloat(data[i].lng)
+          };
+          wp.push(stop);
+      }
+
       console.log(start);
       console.log(end);
 
