@@ -180,7 +180,7 @@
 
   // TODO: better way to get vehicle position
   function displayBus(route) {
-    var jqxhr = $.getJSON("./sampleData/vehiclePosition.json", function (data) {
+    var jqxhr = $.getJSON("/vehiclePosition", function (data) {
       console.log("load file successfully");
       busPos = [];
       data.forEach(function (d) {
