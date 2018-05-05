@@ -1,4 +1,5 @@
 # MAC
 .DS_Store
-./submission/.idea
+submission/node_modules/
+submission/.idea/
 .idea/
